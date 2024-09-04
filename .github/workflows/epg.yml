@@ -1,0 +1,30 @@
+name: epg
+
+on:
+  schedule:
+    - cron: '10 16,22,4,10 * * *'  # 从UTC时间16:10（北京时间0:10）开始，每6小时执行一次
+    - cron: '0 17 * * *'  # 每天UTC时间17:00执行（北京时间1:00）
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Download files
+        run: |
+          wget -O 112114.xml.gz https://epg.112114.xyz/pp.xml.gz || true
+          wget -O 51zmt.xml.gz http://epg.51zmt.top:8000/e.xml.gz || true
+          wget -O livenow.xml https://assets.livednow.com/epg.xml || true
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add 112114.xml.gz 51zmt.xml.gz livenow.xml
+          now_time=$(date -u -d '+8 hour' '+%Y-%m-%d %H:%M:%S')
+          git commit -m "Update files - $now_time"
+          git push origin main
