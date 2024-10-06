@@ -1,9 +1,8 @@
-name: epg
+name: EPG
 
 on:
   schedule:
-    - cron: '10 16,22,4,10 * * *'  # 从UTC时间16:10（北京时间0:10）开始，每6小时执行一次
-    - cron: '0 17 * * *'  # 每天UTC时间17:00执行（北京时间1:00）
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -14,17 +13,54 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Download files
+      - name: Install jq (for parsing JSON)
+        run: sudo apt-get install -y jq
+
+      - name: Download files from files.json
+        env:
+          PROXY_URL: ${{ secrets.PROXY_URL }}
         run: |
-          wget -O 112114.xml.gz https://epg.112114.xyz/pp.xml.gz || true
-          wget -O 51zmt.xml.gz http://epg.51zmt.top:8000/e.xml.gz || true
-          wget -O livenow.xml https://assets.livednow.com/epg.xml || true
+          mkdir -p epg
+          cat files.json | jq -r 'to_entries[] | "\(.key) \(.value)"' | while read -r filename url; do
+            echo "Downloading $filename from $url"
+            xml_file="epg/$filename"
+            xml_file_tmp="$xml_file.tmp"
+            if [[ "$url" == "https://assets.livednow.com/epg.xml" ]]; then
+              curl --retry 5 -x "$PROXY_URL" -o "$xml_file_tmp" "$url"
+            else
+              curl --retry 5 -o "$xml_file_tmp" "$url"
+            fi
+            if [ ! -f "$xml_file" ] || ! cmp -s "$xml_file_tmp" "$xml_file"; then
+              mv "$xml_file_tmp" "$xml_file"
+              gzip -kf "$xml_file"
+            else
+              rm "$xml_file_tmp"
+            fi
+          done
+
+          cat files.json | jq -r 'keys[]' | while read -r filename; do
+            echo "FILENAME_$filename=epg/$filename" >> $GITHUB_ENV
+            echo "FILENAME_${filename%.xml}.gz=epg/${filename%.xml}.gz" >> $GITHUB_ENV
+          done
 
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add 112114.xml.gz 51zmt.xml.gz livenow.xml
-          now_time=$(date -u -d '+8 hour' '+%Y-%m-%d %H:%M:%S')
-          git commit -m "Update files - $now_time"
-          git push origin main
+
+          git add epg/*
+
+          if ! git diff --cached --quiet; then
+            now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
+            git commit -m "更新时间：$now_time"
+            git push origin main || echo "推送到GitHub失败"
+          else
+            echo "没有文件可提交"
+          fi
+
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          repository: taksssss/tv
+          event-type: sync
