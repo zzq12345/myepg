@@ -36,25 +36,5 @@ jobs:
             else
               rm "$xml_file_tmp"
             fi
-          done
-
-          cat files.json | jq -r 'keys[]' | while read -r filename; do
-            echo "FILENAME_$filename=./$filename" >> $GITHUB_ENV
-            
-          done
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-
-          git add */*
-
-          if ! git diff --cached --quiet; then
-            now_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
-            git commit -m "更新时间：$now_time"
-            git push origin main || echo "推送到GitHub失败"
-          else
-            echo "没有文件可提交"
-          fi
-
+          
+          
