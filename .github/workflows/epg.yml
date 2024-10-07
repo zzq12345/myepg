@@ -32,7 +32,7 @@ jobs:
             fi
             if [ ! -f "$xml_file" ] || ! cmp -s "$xml_file_tmp" "$xml_file"; then
               mv "$xml_file_tmp" "$xml_file"
-              gzip -kf "$xml_file"
+              
             else
               rm "$xml_file_tmp"
             fi
