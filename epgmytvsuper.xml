@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
 <tv generator-info-name="mytvsuper" generator-info-url="https://www.tdm.com.mo/c_tv/?ch=Satellite">
-<channel id="新视觉"><display-name lang="zh">新视觉</display-name></channel>
-<channel id="魅力足球"><display-name lang="zh">魅力足球</display-name></channel>
-<programme start="00 +0800" stop="20241011235900 +0800" channel="新视觉">
-<title lang="zh"></title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="00 +0800" stop="20241012235900 +0800" channel="新视觉">
-<title lang="zh"></title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="00 +0800" stop="20241011235900 +0800" channel="魅力足球">
-<title lang="zh"></title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="00 +0800" stop="20241012235900 +0800" channel="魅力足球">
-<title lang="zh"></title>
-<desc lang="zh"> </desc>
-</programme>
 <channel id="SUPER FREE"><display-name lang="zh">SUPER FREE</display-name></channel>
 <channel id="myTV SUPER 18台"><display-name lang="zh">myTV SUPER 18台</display-name></channel>
 <channel id="28 AI 智慧賽馬"><display-name lang="zh">28 AI 智慧賽馬</display-name></channel>
@@ -45000,7 +44982,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012150000 +0800" stop="20241012153000 +0800" channel="東森新聞台">
-<title lang="zh">東森大社會</title>
+<title lang="zh">海峽拚經濟</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012153000 +0800" stop="20241012160000 +0800" channel="東森新聞台">
@@ -45392,7 +45374,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011000000 +0800" stop="20241011010000 +0800" channel="民視台灣台">
-<title lang="zh">民視國際新聞【普】</title>
+<title lang="zh">台灣心在地情【普】(E115)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011010000 +0800" stop="20241011020000 +0800" channel="民視台灣台">
@@ -45404,7 +45386,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011030000 +0800" stop="20241011033000 +0800" channel="民視台灣台">
-<title lang="zh">民視英語新聞【普】</title>
+<title lang="zh">走吧!漫遊趣2【普】(E6)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011033000 +0800" stop="20241011040000 +0800" channel="民視台灣台">
@@ -45564,7 +45546,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012090000 +0800" stop="20241012100000 +0800" channel="民視台灣台">
-<title lang="zh">要健康就運動【普】(E88)</title>
+<title lang="zh">要健康就運動【普】(E89)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012100000 +0800" stop="20241012110000 +0800" channel="民視台灣台">
@@ -46323,12 +46305,8 @@
 <title lang="zh">美鳳有約【普】(E5057)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241011100000 +0800" stop="20241011103000 +0800" channel="民視第一台">
-<title lang="zh">名醫的餐桌【普】(E38)</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011103000 +0800" stop="20241011110000 +0800" channel="民視第一台">
-<title lang="zh">名醫的餐桌【普】(E38)</title>
+<programme start="20241011100000 +0800" stop="20241011110000 +0800" channel="民視第一台">
+<title lang="zh">名醫的餐桌【普】(E22)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011110000 +0800" stop="20241011113000 +0800" channel="民視第一台">
@@ -48412,7 +48390,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012050000 +0800" stop="20241012060000 +0800" channel="華視主頻">
-<title lang="zh">咱的城咱的市咱台灣的味</title>
+<title lang="zh">新聞湘對論</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012060000 +0800" stop="20241012070000 +0800" channel="華視主頻">
@@ -48443,8 +48421,12 @@
 <title lang="zh">華視午間新聞</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241012130000 +0800" stop="20241012140000 +0800" channel="華視主頻">
-<title lang="zh">華視1300午間新聞</title>
+<programme start="20241012130000 +0800" stop="20241012133000 +0800" channel="華視主頻">
+<title lang="zh">台灣好滋味</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012133000 +0800" stop="20241012140000 +0800" channel="華視主頻">
+<title lang="zh">台灣好滋味</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012140000 +0800" stop="20241012150000 +0800" channel="華視主頻">
@@ -55093,6 +55075,332 @@
 </programme>
 <programme start="20241012232000 +0800" stop="20241013015000 +0800" channel="龍華電影">
 <title lang="zh">逆戰(輔12)</title>
+<desc lang="zh"> </desc>
+</programme>
+<channel id="新视觉"><display-name lang="zh">新视觉</display-name></channel>
+<channel id="魅力足球"><display-name lang="zh">魅力足球</display-name></channel>
+<programme start="20241012000000 +0800" stop="20241012010500 +0800" channel="新视觉">
+<title lang="zh">寒战</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012010500 +0800" stop="20241012023000 +0800" channel="新视觉">
+<title lang="zh">江南</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012023000 +0800" stop="20241012031300 +0800" channel="新视觉">
+<title lang="zh">也平凡(3)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012031300 +0800" stop="20241012035500 +0800" channel="新视觉">
+<title lang="zh">也平凡(4)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012035500 +0800" stop="20241012051600 +0800" channel="新视觉">
+<title lang="zh">巧虎魔法岛历险记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012051600 +0800" stop="20241012060100 +0800" channel="新视觉">
+<title lang="zh">也平凡(5)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012060100 +0800" stop="20241012064400 +0800" channel="新视觉">
+<title lang="zh">也平凡(6)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012064400 +0800" stop="20241012080900 +0800" channel="新视觉">
+<title lang="zh">江南</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012080900 +0800" stop="20241012085200 +0800" channel="新视觉">
+<title lang="zh">也平凡(3)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012085200 +0800" stop="20241012093500 +0800" channel="新视觉">
+<title lang="zh">也平凡(4)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012093500 +0800" stop="20241012103300 +0800" channel="新视觉">
+<title lang="zh">英超第27轮:富勒姆-布莱顿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012103300 +0800" stop="20241012113100 +0800" channel="新视觉">
+<title lang="zh">英超第27轮:热刺-水晶宫</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012113100 +0800" stop="20241012125200 +0800" channel="新视觉">
+<title lang="zh">巧虎魔法岛历险记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012125200 +0800" stop="20241012133700 +0800" channel="新视觉">
+<title lang="zh">也平凡(5)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012133700 +0800" stop="20241012142000 +0800" channel="新视觉">
+<title lang="zh">也平凡(6)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012142000 +0800" stop="20241012155900 +0800" channel="新视觉">
+<title lang="zh">英超第3轮:切尔西-水晶宫</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012155900 +0800" stop="20241012165700 +0800" channel="新视觉">
+<title lang="zh">英超第27轮:布伦特福德-切尔西</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012165700 +0800" stop="20241012175500 +0800" channel="新视觉">
+<title lang="zh">英超第27轮:诺丁汉森林-利物浦</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012175500 +0800" stop="20241012192000 +0800" channel="新视觉">
+<title lang="zh">江南</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012192000 +0800" stop="20241012200300 +0800" channel="新视觉">
+<title lang="zh">也平凡(3)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012200300 +0800" stop="20241012204500 +0800" channel="新视觉">
+<title lang="zh">也平凡(4)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012204500 +0800" stop="20241012220600 +0800" channel="新视觉">
+<title lang="zh">巧虎魔法岛历险记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012220600 +0800" stop="20241012225100 +0800" channel="新视觉">
+<title lang="zh">也平凡(5)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012225100 +0800" stop="20241012233400 +0800" channel="新视觉">
+<title lang="zh">也平凡(6)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012233400 +0800" stop="20241011235900 +0800" channel="新视觉">
+<title lang="zh">江南</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013000000 +0800" stop="20241013005900 +0800" channel="新视觉">
+<title lang="zh">江南</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013005900 +0800" stop="20241013024500 +0800" channel="新视觉">
+<title lang="zh">罗曼蒂克消亡史</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013024500 +0800" stop="20241013032700 +0800" channel="新视觉">
+<title lang="zh">也平凡(7)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013032700 +0800" stop="20241013041000 +0800" channel="新视觉">
+<title lang="zh">也平凡(8)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013041000 +0800" stop="20241013054900 +0800" channel="新视觉">
+<title lang="zh">寒战</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013054900 +0800" stop="20241013063300 +0800" channel="新视觉">
+<title lang="zh">也平凡(9)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013063300 +0800" stop="20241013071500 +0800" channel="新视觉">
+<title lang="zh">也平凡(10)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013071500 +0800" stop="20241013085000 +0800" channel="新视觉">
+<title lang="zh">八月未央</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013085000 +0800" stop="20241013102600 +0800" channel="新视觉">
+<title lang="zh">英超第4轮:曼城-布伦特福德</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013102600 +0800" stop="20241013112400 +0800" channel="新视觉">
+<title lang="zh">英超第27轮:伯恩利-伯恩茅斯</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013112400 +0800" stop="20241013120800 +0800" channel="新视觉">
+<title lang="zh">也平凡(11)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013120800 +0800" stop="20241013125200 +0800" channel="新视觉">
+<title lang="zh">也平凡(12)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013125200 +0800" stop="20241013143800 +0800" channel="新视觉">
+<title lang="zh">罗曼蒂克消亡史</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013143800 +0800" stop="20241013153600 +0800" channel="新视觉">
+<title lang="zh">2023-2024英超第27轮:卢顿-维拉</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013153600 +0800" stop="20241013163400 +0800" channel="新视觉">
+<title lang="zh">英超第27轮:谢菲联-阿森纳</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013163400 +0800" stop="20241013181200 +0800" channel="新视觉">
+<title lang="zh">2024-2025英超第4轮:热刺-阿森纳</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013181200 +0800" stop="20241013185400 +0800" channel="新视觉">
+<title lang="zh">也平凡(7)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013185400 +0800" stop="20241013193700 +0800" channel="新视觉">
+<title lang="zh">也平凡(8)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013193700 +0800" stop="20241013211600 +0800" channel="新视觉">
+<title lang="zh">寒战</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013211600 +0800" stop="20241013220000 +0800" channel="新视觉">
+<title lang="zh">也平凡(9)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013220000 +0800" stop="20241013224200 +0800" channel="新视觉">
+<title lang="zh">也平凡(10)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013224200 +0800" stop="20241012235900 +0800" channel="新视觉">
+<title lang="zh">八月未央</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012000000 +0800" stop="20241012005800 +0800" channel="魅力足球">
+<title lang="zh">2022-2023英超精华(5)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012005800 +0800" stop="20241012023200 +0800" channel="魅力足球">
+<title lang="zh">女足亚洲杯14决赛:日本-泰国</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012023200 +0800" stop="20241012041000 +0800" channel="魅力足球">
+<title lang="zh">英超第30轮:利物浦-布莱顿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012041000 +0800" stop="20241012060800 +0800" channel="魅力足球">
+<title lang="zh">2023-2024英超第30轮:热刺-卢顿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012060800 +0800" stop="20241012074200 +0800" channel="魅力足球">
+<title lang="zh">女足亚洲杯14决赛:日本-泰国</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012074200 +0800" stop="20241012092000 +0800" channel="魅力足球">
+<title lang="zh">英超第30轮:利物浦-布莱顿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012092000 +0800" stop="20241012112200 +0800" channel="魅力足球">
+<title lang="zh">2023-2024英超第30轮:热刺-卢顿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012112200 +0800" stop="20241012125600 +0800" channel="魅力足球">
+<title lang="zh">女足亚洲杯14决赛:日本-泰国</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012125600 +0800" stop="20241012143400 +0800" channel="魅力足球">
+<title lang="zh">英超第30轮:利物浦-布莱顿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012143400 +0800" stop="20241012162600 +0800" channel="魅力足球">
+<title lang="zh">2023-2024英超第30轮:热刺-卢顿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012162600 +0800" stop="20241012171500 +0800" channel="魅力足球">
+<title lang="zh">2019-2020法甲精华(23)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012171500 +0800" stop="20241012180200 +0800" channel="魅力足球">
+<title lang="zh">2020-2021意甲精华(3)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012180200 +0800" stop="20241012190000 +0800" channel="魅力足球">
+<title lang="zh">2022-2023英超精华(6)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012190000 +0800" stop="20241012203200 +0800" channel="魅力足球">
+<title lang="zh">亚冠东亚区:横滨水手-全北现代</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012203200 +0800" stop="20241012221900 +0800" channel="魅力足球">
+<title lang="zh">英超第31轮:西汉姆联-热刺</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012221900 +0800" stop="20241012235900 +0800" channel="魅力足球">
+<title lang="zh">英超第31轮:阿森纳-卢顿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012235900 +0800" stop="20241011235900 +0800" channel="魅力足球">
+<title lang="zh">结束</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013000000 +0800" stop="20241013013200 +0800" channel="魅力足球">
+<title lang="zh">亚冠东亚区:横滨水手-全北现代</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013013200 +0800" stop="20241013031000 +0800" channel="魅力足球">
+<title lang="zh">英超第31轮:西汉姆联-热刺</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013031000 +0800" stop="20241013051300 +0800" channel="魅力足球">
+<title lang="zh">英超第31轮:阿森纳-卢顿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013051300 +0800" stop="20241013064500 +0800" channel="魅力足球">
+<title lang="zh">亚冠东亚区:横滨水手-全北现代</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013064500 +0800" stop="20241013082300 +0800" channel="魅力足球">
+<title lang="zh">英超第31轮:西汉姆联-热刺</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013082300 +0800" stop="20241013102900 +0800" channel="魅力足球">
+<title lang="zh">英超第31轮:阿森纳-卢顿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013102900 +0800" stop="20241013120100 +0800" channel="魅力足球">
+<title lang="zh">亚冠东亚区:横滨水手-全北现代</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013120100 +0800" stop="20241013133900 +0800" channel="魅力足球">
+<title lang="zh">英超第31轮:西汉姆联-热刺</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013133900 +0800" stop="20241013154500 +0800" channel="魅力足球">
+<title lang="zh">英超第31轮:阿森纳-卢顿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013154500 +0800" stop="20241013171700 +0800" channel="魅力足球">
+<title lang="zh">亚冠东亚区:横滨水手-全北现代</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013171700 +0800" stop="20241013180700 +0800" channel="魅力足球">
+<title lang="zh">2020-2021德甲精华(15)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013180700 +0800" stop="20241013183200 +0800" channel="魅力足球">
+<title lang="zh">英超世界(5)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013183200 +0800" stop="20241013190000 +0800" channel="魅力足球">
+<title lang="zh">英超世界(6)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013190000 +0800" stop="20241013203800 +0800" channel="魅力足球">
+<title lang="zh">亚冠东亚区:杰志-神户胜利船</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013203800 +0800" stop="20241013221800 +0800" channel="魅力足球">
+<title lang="zh">英超第32轮:曼联-利物浦</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013221800 +0800" stop="20241013235900 +0800" channel="魅力足球">
+<title lang="zh">英超32轮:阿斯顿维拉-布伦特福德</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241013235900 +0800" stop="20241012235900 +0800" channel="魅力足球">
+<title lang="zh">结束</title>
 <desc lang="zh"> </desc>
 </programme>
 <channel id="CMC 北美频道"><display-name lang="zh">CMC 北美频道</display-name></channel>
@@ -63979,15 +64287,15 @@
 <title lang="zh">专题</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241012110000 +0800" stop="20241012111000 +0800" channel="广东移动">
+<programme start="20241012110000 +0800" stop="20241012110900 +0800" channel="广东移动">
 <title lang="zh">加油吧康康</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241012111000 +0800" stop="20241012112100 +0800" channel="广东移动">
+<programme start="20241012110900 +0800" stop="20241012112000 +0800" channel="广东移动">
 <title lang="zh">指尖上的岭南</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241012112100 +0800" stop="20241012113300 +0800" channel="广东移动">
+<programme start="20241012112000 +0800" stop="20241012113300 +0800" channel="广东移动">
 <title lang="zh">文化能人的小康故事</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -64067,15 +64375,19 @@
 <title lang="zh">文化能人的小康故事</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241012173800 +0800" stop="20241012174400 +0800" channel="广东移动">
-<title lang="zh">加油吧康康</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241012174400 +0800" stop="20241012175800 +0800" channel="广东移动">
+<programme start="20241012173800 +0800" stop="20241012175000 +0800" channel="广东移动">
 <title lang="zh">不辞长做岭南人</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241012175800 +0800" stop="20241012180000 +0800" channel="广东移动">
+<programme start="20241012175000 +0800" stop="20241012175800 +0800" channel="广东移动">
+<title lang="zh">南粤视窗</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012175800 +0800" stop="20241012175900 +0800" channel="广东移动">
+<title lang="zh">百业看点</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012175900 +0800" stop="20241012180000 +0800" channel="广东移动">
 <title lang="zh">瞰见</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -64111,44 +64423,56 @@
 <title lang="zh">专题</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241012203000 +0800" stop="20241012210000 +0800" channel="广东移动">
-<title lang="zh">银发元学堂</title>
+<programme start="20241012203000 +0800" stop="20241012203700 +0800" channel="广东移动">
+<title lang="zh">珠影星光青少年剧场之佛山传统文化星推官-塔坡</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012203700 +0800" stop="20241012204500 +0800" channel="广东移动">
+<title lang="zh">珠影星光青少年剧场之佛山传统文化星推官-鸿勝纪念馆</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012204500 +0800" stop="20241012204700 +0800" channel="广东移动">
+<title lang="zh">瞰见</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012204700 +0800" stop="20241012210000 +0800" channel="广东移动">
+<title lang="zh">不辞长做岭南人</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012210000 +0800" stop="20241012213000 +0800" channel="广东移动">
 <title lang="zh">专题</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241012213000 +0800" stop="20241012221300 +0800" channel="广东移动">
-<title lang="zh">追梦者联盟</title>
+<programme start="20241012213000 +0800" stop="20241012215700 +0800" channel="广东移动">
+<title lang="zh">国学小剧场</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241012221300 +0800" stop="20241012222500 +0800" channel="广东移动">
+<programme start="20241012215700 +0800" stop="20241012221000 +0800" channel="广东移动">
 <title lang="zh">不辞长做岭南人</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241012222500 +0800" stop="20241012222700 +0800" channel="广东移动">
-<title lang="zh">瞰见</title>
+<programme start="20241012221000 +0800" stop="20241012221100 +0800" channel="广东移动">
+<title lang="zh">百业看点</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241012222700 +0800" stop="20241012231800 +0800" channel="广东移动">
+<programme start="20241012221100 +0800" stop="20241012225500 +0800" channel="广东移动">
+<title lang="zh">追梦者联盟</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012225500 +0800" stop="20241012234600 +0800" channel="广东移动">
 <title lang="zh">国乐大师</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241012231800 +0800" stop="20241012232400 +0800" channel="广东移动">
+<programme start="20241012234600 +0800" stop="20241012235200 +0800" channel="广东移动">
 <title lang="zh">韩愈来了</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241012232400 +0800" stop="20241012232600 +0800" channel="广东移动">
+<programme start="20241012235200 +0800" stop="20241012235400 +0800" channel="广东移动">
 <title lang="zh">瞰见</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241012232600 +0800" stop="20241012233700 +0800" channel="广东移动">
+<programme start="20241012235400 +0800" stop="20241013000400 +0800" channel="广东移动">
 <title lang="zh">指尖上的岭南</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241012233700 +0800" stop="20241013002700 +0800" channel="广东移动">
-<title lang="zh">幸福落地</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011005100 +0800" stop="20241011005600 +0800" channel="广东岭南戏曲">
@@ -64281,6 +64605,126 @@
 </programme>
 <programme start="20241011235800 +0800" stop="20241012004800 +0800" channel="广东岭南戏曲">
 <title lang="zh">老倌学堂:陈韵红《同是天涯沦落人》</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012004900 +0800" stop="20241012005400 +0800" channel="广东岭南戏曲">
+<title lang="zh">岭南大舞台:资讯(651)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012005400 +0800" stop="20241012010000 +0800" channel="广东岭南戏曲">
+<title lang="zh">趣谈广州话(2195)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012010000 +0800" stop="20241012060000 +0800" channel="广东岭南戏曲">
+<title lang="zh">风雅潮韵:王华买父(1)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012060000 +0800" stop="20241012074300 +0800" channel="广东岭南戏曲">
+<title lang="zh">剧场连线:唐宫香梦证前盟(2)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012074300 +0800" stop="20241012074800 +0800" channel="广东岭南戏曲">
+<title lang="zh">岭南大舞台:资讯(651)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012074800 +0800" stop="20241012075300 +0800" channel="广东岭南戏曲">
+<title lang="zh">趣谈广州话(2190)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012075300 +0800" stop="20241012090000 +0800" channel="广东岭南戏曲">
+<title lang="zh">风雅潮韵:王华买父(1)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012090000 +0800" stop="20241012094500 +0800" channel="广东岭南戏曲">
+<title lang="zh">第三季粤剧有我地:晓毅</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012094500 +0800" stop="20241012104000 +0800" channel="广东岭南戏曲">
+<title lang="zh">高手在民间:月擂主争霸赛(3)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012104000 +0800" stop="20241012121400 +0800" channel="广东岭南戏曲">
+<title lang="zh">剧场连线:唐宫香梦证前盟(2)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012121400 +0800" stop="20241012121900 +0800" channel="广东岭南戏曲">
+<title lang="zh">岭南大舞台:资讯(651)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012121900 +0800" stop="20241012122400 +0800" channel="广东岭南戏曲">
+<title lang="zh">趣谈广州话(2191)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012122400 +0800" stop="20241012151300 +0800" channel="广东岭南戏曲">
+<title lang="zh">锦绣梨园:梦想成真——《高手在民间》年度颁奖典礼暨汇报演出</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012151300 +0800" stop="20241012151800 +0800" channel="广东岭南戏曲">
+<title lang="zh">岭南大舞台:资讯(651)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012151800 +0800" stop="20241012152200 +0800" channel="广东岭南戏曲">
+<title lang="zh">趣谈广州话(2190)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012152200 +0800" stop="20241012165600 +0800" channel="广东岭南戏曲">
+<title lang="zh">剧场连线:唐宫香梦证前盟(2)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012165600 +0800" stop="20241012170100 +0800" channel="广东岭南戏曲">
+<title lang="zh">岭南大舞台:资讯(651)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012170100 +0800" stop="20241012170600 +0800" channel="广东岭南戏曲">
+<title lang="zh">趣谈广州话(2191)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012170600 +0800" stop="20241012174800 +0800" channel="广东岭南戏曲">
+<title lang="zh">红梅飘香:黎骏声</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012174800 +0800" stop="20241012185100 +0800" channel="广东岭南戏曲">
+<title lang="zh">风雅潮韵:王华买父(2)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012185100 +0800" stop="20241012185600 +0800" channel="广东岭南戏曲">
+<title lang="zh">岭南大舞台:资讯(652)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012185600 +0800" stop="20241012190000 +0800" channel="广东岭南戏曲">
+<title lang="zh">趣谈广州话(2190)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012190000 +0800" stop="20241012204100 +0800" channel="广东岭南戏曲">
+<title lang="zh">剧场连线:梦断香销四十年(1)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012204100 +0800" stop="20241012204600 +0800" channel="广东岭南戏曲">
+<title lang="zh">岭南大舞台:资讯(652)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012204600 +0800" stop="20241012205100 +0800" channel="广东岭南戏曲">
+<title lang="zh">趣谈广州话(2191)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012205100 +0800" stop="20241012220200 +0800" channel="广东岭南戏曲">
+<title lang="zh">锦绣梨园:陈锦荣艺术欣赏会(1)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012220200 +0800" stop="20241012230900 +0800" channel="广东岭南戏曲">
+<title lang="zh">老倌学堂:彭炽权《卧薪尝胆》</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012230900 +0800" stop="20241012231400 +0800" channel="广东岭南戏曲">
+<title lang="zh">岭南大舞台:资讯(652)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012231400 +0800" stop="20241012231800 +0800" channel="广东岭南戏曲">
+<title lang="zh">趣谈广州话(2190)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241012231800 +0800" stop="20241013000800 +0800" channel="广东岭南戏曲">
+<title lang="zh">剧场连线:梦断香销四十年(1)</title>
 <desc lang="zh"> </desc>
 </programme>
 <channel id="陝西卫视"><display-name lang="zh">陝西卫视</display-name></channel>
@@ -65566,6 +66010,78 @@
 </programme>
 <programme start="20241011224500 +0800" stop="20241011230500 +0800" channel="安徽卫视">
 <title lang="zh">新安夜空</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011053000 +0800" stop="20241011064700 +0800" channel="安徽经济">
+<title lang="zh">第一时间（重播）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011064700 +0800" stop="20241011073000 +0800" channel="安徽经济">
+<title lang="zh">帮女郎 帮你忙 （重播）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011073000 +0800" stop="20241011081054 +0800" channel="安徽经济">
+<title lang="zh">生活剧场：东四牌楼东</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011081054 +0800" stop="20241011084000 +0800" channel="安徽经济">
+<title lang="zh">健康行天下</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011084000 +0800" stop="20241011114000 +0800" channel="安徽经济">
+<title lang="zh">生活剧场：东四牌楼东</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011114000 +0800" stop="20241011121500 +0800" channel="安徽经济">
+<title lang="zh">经视一时间（直播）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011121500 +0800" stop="20241011130000 +0800" channel="安徽经济">
+<title lang="zh">生活剧场：微笑妈妈 </title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011130000 +0800" stop="20241011162200 +0800" channel="安徽经济">
+<title lang="zh">生活剧场：微笑妈妈 </title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011162200 +0800" stop="20241011171020 +0800" channel="安徽经济">
+<title lang="zh">经视一时间</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011171020 +0800" stop="20241011173500 +0800" channel="安徽经济">
+<title lang="zh">健康行天下</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011173500 +0800" stop="20241011182000 +0800" channel="安徽经济">
+<title lang="zh">帮女郎 帮你忙（重播）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011182000 +0800" stop="20241011194000 +0800" channel="安徽经济">
+<title lang="zh">第一时间（直播）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011194000 +0800" stop="20241011203000 +0800" channel="安徽经济">
+<title lang="zh">钻石剧场：父辈的荣耀 </title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011203000 +0800" stop="20241011212400 +0800" channel="安徽经济">
+<title lang="zh">钻石剧场：父辈的荣耀 </title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011212400 +0800" stop="20241011220000 +0800" channel="安徽经济">
+<title lang="zh">钻石剧场：父辈的荣耀 </title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011220000 +0800" stop="20241011222500 +0800" channel="安徽经济">
+<title lang="zh"> 医道健康</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011222500 +0800" stop="20241011230500 +0800" channel="安徽经济">
+<title lang="zh">帮女郎 帮你忙（当日重播）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20241011230500 +0800" stop="20241011234000 +0800" channel="安徽经济">
+<title lang="zh">健康行天下</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011052100 +0800" stop="20241011062000 +0800" channel="安徽公共">
