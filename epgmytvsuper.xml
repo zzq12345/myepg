@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
 <tv generator-info-name="mytvsuper" generator-info-url="https://www.tdm.com.mo/c_tv/?ch=Satellite">
+<channel id="新视觉"><display-name lang="zh">新视觉</display-name></channel>
+<channel id="魅力足球"><display-name lang="zh">魅力足球</display-name></channel>
+<programme start="00 +0800" stop="20241011235900 +0800" channel="新视觉">
+<title lang="zh"></title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="00 +0800" stop="20241012235900 +0800" channel="新视觉">
+<title lang="zh"></title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="00 +0800" stop="20241011235900 +0800" channel="魅力足球">
+<title lang="zh"></title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="00 +0800" stop="20241012235900 +0800" channel="魅力足球">
+<title lang="zh"></title>
+<desc lang="zh"> </desc>
+</programme>
 <channel id="SUPER FREE"><display-name lang="zh">SUPER FREE</display-name></channel>
 <channel id="myTV SUPER 18台"><display-name lang="zh">myTV SUPER 18台</display-name></channel>
 <channel id="28 AI 智慧賽馬"><display-name lang="zh">28 AI 智慧賽馬</display-name></channel>
@@ -40229,15 +40247,15 @@
 <title lang="zh">LIVE 2024法國公開賽 第二輪(普)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241012003000 +0800" stop="20241012050000 +0800" channel="博斯高球一台">
+<programme start="20241012003000 +0800" stop="20241012053000 +0800" channel="博斯高球一台">
 <title lang="zh">2024艾弗列登喜路錦標賽 第四輪(普)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241012050000 +0800" stop="20241012080000 +0800" channel="博斯高球一台">
+<programme start="20241012053000 +0800" stop="20241012090000 +0800" channel="博斯高球一台">
 <title lang="zh">LIVE 2024黑沙錦標賽 第二輪(普)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20241012080000 +0800" stop="20241012120000 +0800" channel="博斯高球一台">
+<programme start="20241012090000 +0800" stop="20241012120000 +0800" channel="博斯高球一台">
 <title lang="zh">2024 Sentry美巡冠軍賽 第一輪(普)</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -44566,11 +44584,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011230000 +0800" stop="20241012033000 +0800" channel="愛爾達體育3台">
-<title lang="zh">LIVE BWF 芬蘭公開賽 八強(下) 10/11(普)</title>
+<title lang="zh">LIVE BWF 芬蘭公開賽 八強(下) 李哲輝/楊博軒 周天成 10/11(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011230000 +0800" stop="20241012033000 +0800" channel="愛爾達體育3台">
-<title lang="zh">LIVE BWF 芬蘭公開賽 八強(下) 10/11(普)</title>
+<title lang="zh">LIVE BWF 芬蘭公開賽 八強(下) 李哲輝/楊博軒 周天成 10/11(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012033000 +0800" stop="20241012034500 +0800" channel="愛爾達體育3台">
@@ -44602,7 +44620,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012123000 +0800" stop="20241012150000 +0800" channel="愛爾達體育3台">
-<title lang="zh">BWF 芬蘭公開賽 八強回顧(普)</title>
+<title lang="zh">BWF 芬蘭公開賽 八強回顧 李哲輝/楊博軒 周天成(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012150000 +0800" stop="20241012200000 +0800" channel="愛爾達體育3台">
@@ -53966,11 +53984,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011130000 +0800" stop="20241011140000 +0800" channel="靖天日本台">
-<title lang="zh">美好の愛媛縣(77)(40)(普)</title>
+<title lang="zh">美好の愛媛縣(40)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011140000 +0800" stop="20241011150000 +0800" channel="靖天日本台">
-<title lang="zh">私房景點旅行者(20)(8-9)(普)</title>
+<title lang="zh">私房景點旅行者(8-9)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011150000 +0800" stop="20241011160000 +0800" channel="靖天日本台">
@@ -53978,11 +53996,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011160000 +0800" stop="20241011170000 +0800" channel="靖天日本台">
-<title lang="zh">美好の愛媛縣(77)(40)(普)</title>
+<title lang="zh">美好の愛媛縣(40)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011170000 +0800" stop="20241011180000 +0800" channel="靖天日本台">
-<title lang="zh">私房景點旅行者(20)(8-9)(普)</title>
+<title lang="zh">私房景點旅行者(8-9)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011180000 +0800" stop="20241011190000 +0800" channel="靖天日本台">
@@ -53990,15 +54008,15 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011190000 +0800" stop="20241011200000 +0800" channel="靖天日本台">
-<title lang="zh">美好の愛媛縣(77)(41)(普)</title>
+<title lang="zh">美好の愛媛縣(41)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011200000 +0800" stop="20241011210000 +0800" channel="靖天日本台">
-<title lang="zh">私房景點旅行者(20)(9-10)(普)</title>
+<title lang="zh">私房景點旅行者(9-10)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011210000 +0800" stop="20241011220000 +0800" channel="靖天日本台">
-<title lang="zh">銀河英雄傳說S2(12)(11-12)(普)</title>
+<title lang="zh">銀河英雄傳說S2(11-12)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011220000 +0800" stop="20241012003000 +0800" channel="靖天日本台">
@@ -54010,11 +54028,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012003000 +0800" stop="20241012010000 +0800" channel="靖天日本台">
-<title lang="zh">日治時期台灣建築(12)(5)(普)</title>
+<title lang="zh">日治時期台灣建築(5)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012010000 +0800" stop="20241012020000 +0800" channel="靖天日本台">
-<title lang="zh">北海道極品海鮮大口吃(50)(26-27)(普)</title>
+<title lang="zh">北海道極品海鮮大口吃(26-27)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012020000 +0800" stop="20241012040000 +0800" channel="靖天日本台">
@@ -54026,35 +54044,35 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012043000 +0800" stop="20241012050000 +0800" channel="靖天日本台">
-<title lang="zh">迎向彩虹(7)(7)(普)</title>
+<title lang="zh">迎向彩虹(7)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012050000 +0800" stop="20241012053000 +0800" channel="靖天日本台">
-<title lang="zh">型男餐桌(15)(4)(普)</title>
+<title lang="zh">型男餐桌(4)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012053000 +0800" stop="20241012060000 +0800" channel="靖天日本台">
-<title lang="zh">派對結束(6)(4)(護)</title>
+<title lang="zh">派對結束(4)(護)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012060000 +0800" stop="20241012070000 +0800" channel="靖天日本台">
-<title lang="zh">日本雙花趣哪玩 ? (49)(9-10)(普)</title>
+<title lang="zh">日本雙花趣哪玩 ?(9-10)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012070000 +0800" stop="20241012080000 +0800" channel="靖天日本台">
-<title lang="zh">北海道極品海鮮大口吃(50)(26-27)(普)</title>
+<title lang="zh">北海道極品海鮮大口吃(26-27)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012080000 +0800" stop="20241012083000 +0800" channel="靖天日本台">
-<title lang="zh">有頂天家族2(12)(12)(普)</title>
+<title lang="zh">有頂天家族2(12)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012083000 +0800" stop="20241012090000 +0800" channel="靖天日本台">
-<title lang="zh">日治時期台灣建築(12)(5)(普)</title>
+<title lang="zh">日治時期台灣建築(5)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012090000 +0800" stop="20241012100000 +0800" channel="靖天日本台">
-<title lang="zh">日本雙花趣哪玩 ? (49)(9-10)(普)</title>
+<title lang="zh">日本雙花趣哪玩 ?(9-10)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012100000 +0800" stop="20241012103000 +0800" channel="靖天日本台">
@@ -54062,7 +54080,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012103000 +0800" stop="20241012110000 +0800" channel="靖天日本台">
-<title lang="zh">迎向彩虹(7)(7)(普)</title>
+<title lang="zh">迎向彩虹(7)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012110000 +0800" stop="20241012130000 +0800" channel="靖天日本台">
@@ -54074,7 +54092,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012150000 +0800" stop="20241012153000 +0800" channel="靖天日本台">
-<title lang="zh">有頂天家族2(12)(12)(普)</title>
+<title lang="zh">有頂天家族2(12)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012153000 +0800" stop="20241012160000 +0800" channel="靖天日本台">
@@ -54082,19 +54100,19 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012160000 +0800" stop="20241012163000 +0800" channel="靖天日本台">
-<title lang="zh">迎向彩虹(7)(7)(普)</title>
+<title lang="zh">迎向彩虹(7)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012163000 +0800" stop="20241012170000 +0800" channel="靖天日本台">
-<title lang="zh">日治時期台灣建築(12)(6)(普)</title>
+<title lang="zh">日治時期台灣建築(6)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012170000 +0800" stop="20241012180000 +0800" channel="靖天日本台">
-<title lang="zh">北海道極品海鮮大口吃(50)(27-28)(普)</title>
+<title lang="zh">北海道極品海鮮大口吃(27-28)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012180000 +0800" stop="20241012190000 +0800" channel="靖天日本台">
-<title lang="zh">日本雙花趣哪玩 ? (49)(10-11)(普)</title>
+<title lang="zh">日本雙花趣哪玩 ?(10-11)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012190000 +0800" stop="20241012193000 +0800" channel="靖天日本台">
@@ -54102,11 +54120,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012193000 +0800" stop="20241012200000 +0800" channel="靖天日本台">
-<title lang="zh">承載幸福的家犬(5)(1)(普)</title>
+<title lang="zh">承載幸福的家犬(1)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012200000 +0800" stop="20241012203000 +0800" channel="靖天日本台">
-<title lang="zh">月刊妄想科學(12)(1)(普)</title>
+<title lang="zh">月刊妄想科學(1)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012203000 +0800" stop="20241012223000 +0800" channel="靖天日本台">
@@ -54114,15 +54132,15 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012223000 +0800" stop="20241012230000 +0800" channel="靖天日本台">
-<title lang="zh">闖吧！日本單車行(15)(14)(普)</title>
+<title lang="zh">闖吧！日本單車行(14)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012230000 +0800" stop="20241012233000 +0800" channel="靖天日本台">
-<title lang="zh">型男餐桌(15)(5)(普)</title>
+<title lang="zh">型男餐桌(5)(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241012233000 +0800" stop="20241013000000 +0800" channel="靖天日本台">
-<title lang="zh">派對結束(6)(5)(護)</title>
+<title lang="zh">派對結束(5)(護)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011000000 +0800" stop="20241011015959 +0800" channel="非凡商業台">
@@ -65548,78 +65566,6 @@
 </programme>
 <programme start="20241011224500 +0800" stop="20241011230500 +0800" channel="安徽卫视">
 <title lang="zh">新安夜空</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011053000 +0800" stop="20241011064700 +0800" channel="安徽经济">
-<title lang="zh">第一时间（重播）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011064700 +0800" stop="20241011073000 +0800" channel="安徽经济">
-<title lang="zh">帮女郎 帮你忙 （重播）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011073000 +0800" stop="20241011081054 +0800" channel="安徽经济">
-<title lang="zh">生活剧场：东四牌楼东</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011081054 +0800" stop="20241011084000 +0800" channel="安徽经济">
-<title lang="zh">健康行天下</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011084000 +0800" stop="20241011114000 +0800" channel="安徽经济">
-<title lang="zh">生活剧场：东四牌楼东</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011114000 +0800" stop="20241011121500 +0800" channel="安徽经济">
-<title lang="zh">经视一时间（直播）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011121500 +0800" stop="20241011130000 +0800" channel="安徽经济">
-<title lang="zh">生活剧场：微笑妈妈 </title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011130000 +0800" stop="20241011162200 +0800" channel="安徽经济">
-<title lang="zh">生活剧场：微笑妈妈 </title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011162200 +0800" stop="20241011171020 +0800" channel="安徽经济">
-<title lang="zh">经视一时间</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011171020 +0800" stop="20241011173500 +0800" channel="安徽经济">
-<title lang="zh">健康行天下</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011173500 +0800" stop="20241011182000 +0800" channel="安徽经济">
-<title lang="zh">帮女郎 帮你忙（重播）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011182000 +0800" stop="20241011194000 +0800" channel="安徽经济">
-<title lang="zh">第一时间（直播）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011194000 +0800" stop="20241011203000 +0800" channel="安徽经济">
-<title lang="zh">钻石剧场：父辈的荣耀 </title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011203000 +0800" stop="20241011212400 +0800" channel="安徽经济">
-<title lang="zh">钻石剧场：父辈的荣耀 </title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011212400 +0800" stop="20241011220000 +0800" channel="安徽经济">
-<title lang="zh">钻石剧场：父辈的荣耀 </title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011220000 +0800" stop="20241011222500 +0800" channel="安徽经济">
-<title lang="zh"> 医道健康</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011222500 +0800" stop="20241011230500 +0800" channel="安徽经济">
-<title lang="zh">帮女郎 帮你忙（当日重播）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20241011230500 +0800" stop="20241011234000 +0800" channel="安徽经济">
-<title lang="zh">健康行天下</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20241011052100 +0800" stop="20241011062000 +0800" channel="安徽公共">
