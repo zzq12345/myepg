@@ -599,8 +599,12 @@
 <title lang="zh">玲玲友情報</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114050000 +0800" stop="20250114060000 +0800" channel="翡翠台(国际版)">
+<programme start="20250114050000 +0800" stop="20250114054500 +0800" channel="翡翠台(国际版)">
 <title lang="zh">流行都市</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250114054500 +0800" stop="20250114060000 +0800" channel="翡翠台(国际版)">
+<title lang="zh">快樂長門人</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250114060000 +0800" stop="20250114070000 +0800" channel="翡翠台(国际版)">
@@ -3797,10 +3801,6 @@
 <desc lang="zh">靶向治疗 让肺癌“治愈”更近一步 </desc>
 </programme>
 <channel id="第一財經直播"><display-name lang="zh">第一財經直播</display-name></channel>
-<programme start="20250113100000 +0800" stop="20250113110000 +0800" channel="第一財經直播">
-<title lang="zh">一线发布丨国新办举行“中国经济高质量发展成效”系列新闻发布会 介绍2024年全年进出口情况</title>
-<desc lang="zh"> 国务院新闻办公室定于2025年1月13日（星期一）上午10时举行“中国经济高质量发展成效”系列新闻发布会，海关总署副署长王令浚介绍2024年全年进出口情况，并答记者问。</desc>
-</programme>
 <programme start="20250117100000 +0800" stop="20250117110000 +0800" channel="第一財經直播">
 <title lang="zh">风口调研·直播｜机器人管家照进现实？十万元一个人形机器人，你愿意带回家吗？</title>
 <desc lang="zh"> 如果人形机器人能做菜看家、照顾老人、打扫卫生，“文能弹琴逗猫，武能咏春篮球”，并且价格不到10万元，你心动吗？在有望成为人形机器人量产元年的2025年，随着越来越多大厂入局、技术迭代、政策加持，人形机器人的成本或许会大大降低，未来的商业化应用将会迎来新一轮的机遇！本期节目邀请了行业专家、研发团队与投资人一起来聊聊国产人形机器人的成本构成和技术实力，共探人形机器人的商业化前景。</desc>
@@ -3824,6 +3824,10 @@
 <programme start="20250113133000 +0800" stop="20250113143000 +0800" channel="第一財經直播">
 <title lang="zh">风口调研·直播丨机器人到底要不要“脸”？</title>
 <desc lang="zh"> 在去年各大展会上，外形神态好似真人的机器人，让消费者们很感兴趣，但同时也饱受争议。机器人追求外形像人类究竟有何意义？仿生人形机器人商业化之路走向何方？本期节目我们邀请了企业、研发团队与首席分析师一起来共同探讨：仿生人形机器人产业链、机器人情感交互大揭秘。科幻电影何时真正走进现实，真假难辨的“人类”你害怕了吗？</desc>
+</programme>
+<programme start="20250113100000 +0800" stop="20250113110000 +0800" channel="第一財經直播">
+<title lang="zh">一线发布丨国新办举行“中国经济高质量发展成效”系列新闻发布会 介绍2024年全年进出口情况</title>
+<desc lang="zh"> 国务院新闻办公室定于2025年1月13日（星期一）上午10时举行“中国经济高质量发展成效”系列新闻发布会，海关总署副署长王令浚介绍2024年全年进出口情况，并答记者问。</desc>
 </programme>
 <programme start="20250111090000 +0800" stop="20250111100000 +0800" channel="第一財經直播">
 <title lang="zh">一线论坛 | 北大光华新年论坛：创新驱动赋能可持续发展的世界经济</title>
@@ -24377,11 +24381,11 @@
 <title lang="zh">市政协十四届三次会议开幕会</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113100900 +0800" stop="20250113111100 +0800" channel="北京卫视">
+<programme start="20250113100900 +0800" stop="20250113110900 +0800" channel="北京卫视">
 <title lang="zh">上午剧场:我是刑警(33)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113111100 +0800" stop="20250113120000 +0800" channel="北京卫视">
+<programme start="20250113110900 +0800" stop="20250113120000 +0800" channel="北京卫视">
 <title lang="zh">上午剧场:我是刑警(34)</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -25697,15 +25701,15 @@
 <title lang="zh">经典剧场:玫瑰之战(18)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113092900 +0800" stop="20250113102200 +0800" channel="浙江卫视">
+<programme start="20250113092900 +0800" stop="20250113101300 +0800" channel="浙江卫视">
 <title lang="zh">经典剧场:玫瑰之战(19)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113102200 +0800" stop="20250113110800 +0800" channel="浙江卫视">
+<programme start="20250113101300 +0800" stop="20250113105900 +0800" channel="浙江卫视">
 <title lang="zh">经典剧场:玫瑰之战(20)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113110800 +0800" stop="20250113120000 +0800" channel="浙江卫视">
+<programme start="20250113105900 +0800" stop="20250113120000 +0800" channel="浙江卫视">
 <title lang="zh">经典剧场:玫瑰之战(21)</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -26149,11 +26153,11 @@
 <title lang="zh">未来中国AI季</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113093400 +0800" stop="20250113103400 +0800" channel="湖南卫视">
+<programme start="20250113093400 +0800" stop="20250113103200 +0800" channel="湖南卫视">
 <title lang="zh">偶像独播剧场:千金女贼</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113103400 +0800" stop="20250113112100 +0800" channel="湖南卫视">
+<programme start="20250113103200 +0800" stop="20250113112100 +0800" channel="湖南卫视">
 <title lang="zh">偶像独播剧场:千金女贼</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -26542,7 +26546,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113083400 +0800" stop="20250113095200 +0800" channel="湖北卫视">
-<title lang="zh">早间剧场:铁道游击队</title>
+<title lang="zh">早间剧场:铁道游击队 39</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113095200 +0800" stop="20250113105200 +0800" channel="湖北卫视">
@@ -26550,7 +26554,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113105200 +0800" stop="20250113115000 +0800" channel="湖北卫视">
-<title lang="zh">早间剧场:铁道游击队</title>
+<title lang="zh">早间剧场:铁道游击队 41</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113115000 +0800" stop="20250113122900 +0800" channel="湖北卫视">
@@ -26558,11 +26562,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113122900 +0800" stop="20250113132100 +0800" channel="湖北卫视">
-<title lang="zh">早间剧场:铁道游击队</title>
+<title lang="zh">早间剧场:铁道游击队 42</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113132100 +0800" stop="20250113141400 +0800" channel="湖北卫视">
-<title lang="zh">早间剧场:铁道游击队</title>
+<title lang="zh">早间剧场:铁道游击队 43</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113141400 +0800" stop="20250113150800 +0800" channel="湖北卫视">
@@ -26949,11 +26953,11 @@
 <title lang="zh">上午剧场:大决战(8)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113100700 +0800" stop="20250113110100 +0800" channel="广东卫视">
+<programme start="20250113100700 +0800" stop="20250113110000 +0800" channel="广东卫视">
 <title lang="zh">上午剧场:大决战(9)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113110100 +0800" stop="20250113115500 +0800" channel="广东卫视">
+<programme start="20250113110000 +0800" stop="20250113115500 +0800" channel="广东卫视">
 <title lang="zh">上午剧场:大决战(10)</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -27401,15 +27405,15 @@
 <title lang="zh">阳光剧场:地道战</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113094200 +0800" stop="20250113102800 +0800" channel="广西卫视">
+<programme start="20250113094200 +0800" stop="20250113101500 +0800" channel="广西卫视">
 <title lang="zh">阳光剧场:地道战</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113102800 +0800" stop="20250113104600 +0800" channel="广西卫视">
+<programme start="20250113101500 +0800" stop="20250113105000 +0800" channel="广西卫视">
 <title lang="zh">阳光剧场:地道战</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113104600 +0800" stop="20250113113800 +0800" channel="广西卫视">
+<programme start="20250113105000 +0800" stop="20250113113800 +0800" channel="广西卫视">
 <title lang="zh">阳光剧场:地道战</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -28254,39 +28258,39 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113104500 +0800" stop="20250113113300 +0800" channel="海南卫视">
-<title lang="zh">阳光剧场:大漠枪神 29</title>
+<title lang="zh">阳光剧场:大漠枪神 28</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113113300 +0800" stop="20250113122100 +0800" channel="海南卫视">
-<title lang="zh">阳光剧场:大漠枪神 30</title>
+<title lang="zh">阳光剧场:大漠枪神 29</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113122100 +0800" stop="20250113130900 +0800" channel="海南卫视">
-<title lang="zh">阳光剧场:大漠枪神 31</title>
+<title lang="zh">阳光剧场:大漠枪神 30</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113130900 +0800" stop="20250113135700 +0800" channel="海南卫视">
-<title lang="zh">阳光剧场:大漠枪神 32</title>
+<title lang="zh">阳光剧场:大漠枪神 31</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113135700 +0800" stop="20250113144500 +0800" channel="海南卫视">
-<title lang="zh">阳光剧场:大漠枪神 33</title>
+<title lang="zh">阳光剧场:大漠枪神 32</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113144500 +0800" stop="20250113153300 +0800" channel="海南卫视">
-<title lang="zh">阳光剧场:大漠枪神 34</title>
+<title lang="zh">阳光剧场:大漠枪神 33</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113153300 +0800" stop="20250113162100 +0800" channel="海南卫视">
-<title lang="zh">阳光剧场:大漠枪神 35</title>
+<title lang="zh">阳光剧场:大漠枪神 34</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113162100 +0800" stop="20250113170900 +0800" channel="海南卫视">
-<title lang="zh">阳光剧场:大漠枪神 36</title>
+<title lang="zh">阳光剧场:大漠枪神 35</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113170900 +0800" stop="20250113180700 +0800" channel="海南卫视">
-<title lang="zh">阳光剧场:大漠枪神 37</title>
+<title lang="zh">阳光剧场:大漠枪神 36</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113180700 +0800" stop="20250113181500 +0800" channel="海南卫视">
@@ -29649,11 +29653,11 @@
 <title lang="zh">真情剧场:飞哥大英雄(32)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113093700 +0800" stop="20250113102400 +0800" channel="四川卫视">
+<programme start="20250113093700 +0800" stop="20250113102500 +0800" channel="四川卫视">
 <title lang="zh">真情剧场:飞哥大英雄(33)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113102400 +0800" stop="20250113112900 +0800" channel="四川卫视">
+<programme start="20250113102500 +0800" stop="20250113112900 +0800" channel="四川卫视">
 <title lang="zh">真情剧场:飞哥大英雄 34</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -30073,11 +30077,11 @@
 <title lang="zh">中原国防</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113093000 +0800" stop="20250113104900 +0800" channel="河南卫视">
+<programme start="20250113093000 +0800" stop="20250113105000 +0800" channel="河南卫视">
 <title lang="zh">晨光剧场:济公</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113104900 +0800" stop="20250113120300 +0800" channel="河南卫视">
+<programme start="20250113105000 +0800" stop="20250113120300 +0800" channel="河南卫视">
 <title lang="zh">晨光剧场:济公</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -30501,19 +30505,15 @@
 <title lang="zh">听见这片海</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113085500 +0800" stop="20250113104000 +0800" channel="福建卫视">
+<programme start="20250113085500 +0800" stop="20250113105200 +0800" channel="福建卫视">
 <title lang="zh">福建省十四届人大三次会议开幕</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113104000 +0800" stop="20250113104800 +0800" channel="福建卫视">
+<programme start="20250113105200 +0800" stop="20250113110700 +0800" channel="福建卫视">
 <title lang="zh">听见这片海</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113104800 +0800" stop="20250113111000 +0800" channel="福建卫视">
-<title lang="zh">玩转海岸线</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250113111000 +0800" stop="20250113120000 +0800" channel="福建卫视">
+<programme start="20250113110700 +0800" stop="20250113120000 +0800" channel="福建卫视">
 <title lang="zh">神奇飞船之中华寻宝</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -32609,11 +32609,11 @@
 <title lang="zh">河北省十四届人大三次会议开幕会</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113101100 +0800" stop="20250113104700 +0800" channel="河北卫视">
+<programme start="20250113101100 +0800" stop="20250113104400 +0800" channel="河北卫视">
 <title lang="zh">经典剧场:康熙王朝(1)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113104700 +0800" stop="20250113112400 +0800" channel="河北卫视">
+<programme start="20250113104400 +0800" stop="20250113112400 +0800" channel="河北卫视">
 <title lang="zh">经典剧场:康熙王朝(2)</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -45119,16 +45119,12 @@
 <title lang="zh">Ragam Pagi</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113020000 +0700" stop="20250113040000 +0700" channel="GTV ">
+<programme start="20250113020000 +0700" stop="20250113043000 +0700" channel="GTV ">
 <title lang="zh">Ragam Pagi</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113040000 +0700" stop="20250113050000 +0700" channel="GTV ">
+<programme start="20250113043000 +0700" stop="20250113053000 +0700" channel="GTV ">
 <title lang="zh">Buletin iNews Pagi</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250113050000 +0700" stop="20250113053000 +0700" channel="GTV ">
-<title lang="zh">SpongeBob SquarePants Movie</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113053000 +0700" stop="20250113060000 +0700" channel="GTV ">
@@ -45179,6 +45175,10 @@
 <title lang="zh">Temen Ngekost</title>
 <desc lang="zh"> </desc>
 </programme>
+<programme start="20250114000000 +0700" stop="20250114003000 +0700" channel="GTV ">
+<title lang="zh">Legenda Sang Penunggu</title>
+<desc lang="zh"> </desc>
+</programme>
 <programme start="20250114003000 +0700" stop="20250114013000 +0700" channel="GTV ">
 <title lang="zh">Buletin iNews Malam</title>
 <desc lang="zh"> </desc>
@@ -45187,16 +45187,12 @@
 <title lang="zh">Gerebek</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114020000 +0700" stop="20250114040000 +0700" channel="GTV ">
+<programme start="20250114020000 +0700" stop="20250114043000 +0700" channel="GTV ">
 <title lang="zh">Ragam Pagi</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114040000 +0700" stop="20250114050000 +0700" channel="GTV ">
+<programme start="20250114043000 +0700" stop="20250114053000 +0700" channel="GTV ">
 <title lang="zh">Buletin iNews Pagi</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250114050000 +0700" stop="20250114053000 +0700" channel="GTV ">
-<title lang="zh">SpongeBob SquarePants Movie</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250114053000 +0700" stop="20250114060000 +0700" channel="GTV ">
@@ -45255,16 +45251,12 @@
 <title lang="zh">Ragam Pagi</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113020000 +0700" stop="20250113040000 +0700" channel="GTV HD">
+<programme start="20250113020000 +0700" stop="20250113043000 +0700" channel="GTV HD">
 <title lang="zh">Ragam Pagi</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113040000 +0700" stop="20250113050000 +0700" channel="GTV HD">
+<programme start="20250113043000 +0700" stop="20250113053000 +0700" channel="GTV HD">
 <title lang="zh">Buletin iNews Pagi</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250113050000 +0700" stop="20250113053000 +0700" channel="GTV HD">
-<title lang="zh">SpongeBob SquarePants Movie</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113053000 +0700" stop="20250113060000 +0700" channel="GTV HD">
@@ -45315,6 +45307,10 @@
 <title lang="zh">Temen Ngekost</title>
 <desc lang="zh"> </desc>
 </programme>
+<programme start="20250114000000 +0700" stop="20250114003000 +0700" channel="GTV HD">
+<title lang="zh">Legenda Sang Penunggu</title>
+<desc lang="zh"> </desc>
+</programme>
 <programme start="20250114003000 +0700" stop="20250114013000 +0700" channel="GTV HD">
 <title lang="zh">Buletin iNews Malam</title>
 <desc lang="zh"> </desc>
@@ -45323,16 +45319,12 @@
 <title lang="zh">Gerebek</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114020000 +0700" stop="20250114040000 +0700" channel="GTV HD">
+<programme start="20250114020000 +0700" stop="20250114043000 +0700" channel="GTV HD">
 <title lang="zh">Ragam Pagi</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114040000 +0700" stop="20250114050000 +0700" channel="GTV HD">
+<programme start="20250114043000 +0700" stop="20250114053000 +0700" channel="GTV HD">
 <title lang="zh">Buletin iNews Pagi</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250114050000 +0700" stop="20250114053000 +0700" channel="GTV HD">
-<title lang="zh">SpongeBob SquarePants Movie</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250114053000 +0700" stop="20250114060000 +0700" channel="GTV HD">
@@ -55883,92 +55875,104 @@
 <title lang="zh">Sportacular Match: BVB Vs LEV</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113063000 +0700" stop="20250113083000 +0700" channel="Sportstars 4">
+<programme start="20250113063000 +0700" stop="20250113080000 +0700" channel="Sportstars 4">
 <title lang="zh">Liga 2: PSL Vs PAL</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113083000 +0700" stop="20250113103000 +0700" channel="Sportstars 4">
-<title lang="zh">BRI Liga 1</title>
+<programme start="20250113080000 +0700" stop="20250113100000 +0700" channel="Sportstars 4">
+<title lang="zh">Sportacular Match: BVB Vs LEV</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113103000 +0700" stop="20250113123000 +0700" channel="Sportstars 4">
-<title lang="zh">Sportacular Match</title>
+<programme start="20250113100000 +0700" stop="20250113120000 +0700" channel="Sportstars 4">
+<title lang="zh">BRI Liga 1: BAL Vs KDR</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113123000 +0700" stop="20250113130000 +0700" channel="Sportstars 4">
+<programme start="20250113120000 +0700" stop="20250113140000 +0700" channel="Sportstars 4">
+<title lang="zh">Liga 2: JOG Vs KDS</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250113140000 +0700" stop="20250113160000 +0700" channel="Sportstars 4">
+<title lang="zh">BRI Liga 1: BAL Vs KDR</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250113160000 +0700" stop="20250113180000 +0700" channel="Sportstars 4">
+<title lang="zh">Sportacular Match: BVB Vs LEV</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250113180000 +0700" stop="20250113183000 +0700" channel="Sportstars 4">
 <title lang="zh">World Classic League</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113130000 +0700" stop="20250113132000 +0700" channel="Sportstars 4">
+<programme start="20250113183000 +0700" stop="20250113190000 +0700" channel="Sportstars 4">
 <title lang="zh">Europe</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113132000 +0700" stop="20250113153000 +0700" channel="Sportstars 4">
-<title lang="zh">BRI Liga 1 (L)</title>
+<programme start="20250113190000 +0700" stop="20250113210000 +0700" channel="Sportstars 4">
+<title lang="zh">Sportacular Match: ATH Vs BAR</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113153000 +0700" stop="20250113160000 +0700" channel="Sportstars 4">
+<programme start="20250113210000 +0700" stop="20250113213000 +0700" channel="Sportstars 4">
 <title lang="zh">The Ultimate Goals</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113160000 +0700" stop="20250113163000 +0700" channel="Sportstars 4">
+<programme start="20250113213000 +0700" stop="20250113220000 +0700" channel="Sportstars 4">
 <title lang="zh">World Classic League</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113163000 +0700" stop="20250113183000 +0700" channel="Sportstars 4">
-<title lang="zh">BRI Liga 1</title>
+<programme start="20250114000000 +0700" stop="20250114020000 +0700" channel="Sportstars 4">
+<title lang="zh">BRI Liga 1: BAL Vs KDR</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113183000 +0700" stop="20250113203000 +0700" channel="Sportstars 4">
-<title lang="zh">BRI Liga 1</title>
+<programme start="20250114020000 +0700" stop="20250114040000 +0700" channel="Sportstars 4">
+<title lang="zh">Liga 2: JOG Vs KDS</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113203000 +0700" stop="20250113223000 +0700" channel="Sportstars 4">
-<title lang="zh">Liga 2</title>
+<programme start="20250114040000 +0700" stop="20250114060000 +0700" channel="Sportstars 4">
+<title lang="zh">Sportacular Match: BVB Vs LEV</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114003000 +0700" stop="20250114023000 +0700" channel="Sportstars 4">
-<title lang="zh">Liga 2</title>
+<programme start="20250114060000 +0700" stop="20250114080000 +0700" channel="Sportstars 4">
+<title lang="zh">Liga 2: JOG Vs KDS</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114023000 +0700" stop="20250114043000 +0700" channel="Sportstars 4">
-<title lang="zh">Sportacular Match</title>
+<programme start="20250114080000 +0700" stop="20250114100000 +0700" channel="Sportstars 4">
+<title lang="zh">Sportacular Match: IDN Vs MAS</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114043000 +0700" stop="20250114063000 +0700" channel="Sportstars 4">
-<title lang="zh">BRI Liga 1</title>
+<programme start="20250114100000 +0700" stop="20250114120000 +0700" channel="Sportstars 4">
+<title lang="zh">BRI Liga 1: PSO Vs PSM</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114063000 +0700" stop="20250114083000 +0700" channel="Sportstars 4">
-<title lang="zh">Liga 2</title>
+<programme start="20250114120000 +0700" stop="20250114140000 +0700" channel="Sportstars 4">
+<title lang="zh">Liga 2: BFC Vs JAP</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114083000 +0700" stop="20250114103000 +0700" channel="Sportstars 4">
-<title lang="zh">BRI Liga 1</title>
+<programme start="20250114140000 +0700" stop="20250114160000 +0700" channel="Sportstars 4">
+<title lang="zh">BRI Liga 1: PSO Vs PSM</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114103000 +0700" stop="20250114123000 +0700" channel="Sportstars 4">
-<title lang="zh">Sportacular Match</title>
+<programme start="20250114160000 +0700" stop="20250114180000 +0700" channel="Sportstars 4">
+<title lang="zh">Sportacular Match: IDN Vs MAS</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114123000 +0700" stop="20250114143000 +0700" channel="Sportstars 4">
-<title lang="zh">BRI Liga 1</title>
+<programme start="20250114180000 +0700" stop="20250114183000 +0700" channel="Sportstars 4">
+<title lang="zh">World Classic League</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114143000 +0700" stop="20250114163000 +0700" channel="Sportstars 4">
-<title lang="zh">Liga 2</title>
+<programme start="20250114183000 +0700" stop="20250114190000 +0700" channel="Sportstars 4">
+<title lang="zh">Europe</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114163000 +0700" stop="20250114183000 +0700" channel="Sportstars 4">
-<title lang="zh">BRI Liga 1</title>
+<programme start="20250114190000 +0700" stop="20250114210000 +0700" channel="Sportstars 4">
+<title lang="zh">Sportacular Match: BVB Vs LEV</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114183000 +0700" stop="20250114203000 +0700" channel="Sportstars 4">
-<title lang="zh">BRI Liga 1</title>
+<programme start="20250114210000 +0700" stop="20250114213000 +0700" channel="Sportstars 4">
+<title lang="zh">The Ultimate Goals</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114203000 +0700" stop="20250114223000 +0700" channel="Sportstars 4">
-<title lang="zh">Liga 2</title>
+<programme start="20250114213000 +0700" stop="20250114220000 +0700" channel="Sportstars 4">
+<title lang="zh">World Classic League</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113003000 +0700" stop="20250113023000 +0700" channel="Sportstars 4 HD">
@@ -55983,92 +55987,104 @@
 <title lang="zh">Sportacular Match: BVB Vs LEV</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113063000 +0700" stop="20250113083000 +0700" channel="Sportstars 4 HD">
+<programme start="20250113063000 +0700" stop="20250113080000 +0700" channel="Sportstars 4 HD">
 <title lang="zh">Liga 2: PSL Vs PAL</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113083000 +0700" stop="20250113103000 +0700" channel="Sportstars 4 HD">
-<title lang="zh">BRI Liga 1</title>
+<programme start="20250113080000 +0700" stop="20250113100000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">Sportacular Match: BVB Vs LEV</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113103000 +0700" stop="20250113123000 +0700" channel="Sportstars 4 HD">
-<title lang="zh">Sportacular Match</title>
+<programme start="20250113100000 +0700" stop="20250113120000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">BRI Liga 1: BAL Vs KDR</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113123000 +0700" stop="20250113130000 +0700" channel="Sportstars 4 HD">
+<programme start="20250113120000 +0700" stop="20250113140000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">Liga 2: JOG Vs KDS</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250113140000 +0700" stop="20250113160000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">BRI Liga 1: BAL Vs KDR</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250113160000 +0700" stop="20250113180000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">Sportacular Match: BVB Vs LEV</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250113180000 +0700" stop="20250113183000 +0700" channel="Sportstars 4 HD">
 <title lang="zh">World Classic League</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113130000 +0700" stop="20250113132000 +0700" channel="Sportstars 4 HD">
+<programme start="20250113183000 +0700" stop="20250113190000 +0700" channel="Sportstars 4 HD">
 <title lang="zh">Europe</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113132000 +0700" stop="20250113153000 +0700" channel="Sportstars 4 HD">
-<title lang="zh">BRI Liga 1 (L)</title>
+<programme start="20250113190000 +0700" stop="20250113210000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">Sportacular Match: ATH Vs BAR</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113153000 +0700" stop="20250113160000 +0700" channel="Sportstars 4 HD">
+<programme start="20250113210000 +0700" stop="20250113213000 +0700" channel="Sportstars 4 HD">
 <title lang="zh">The Ultimate Goals</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113160000 +0700" stop="20250113163000 +0700" channel="Sportstars 4 HD">
+<programme start="20250113213000 +0700" stop="20250113220000 +0700" channel="Sportstars 4 HD">
 <title lang="zh">World Classic League</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113163000 +0700" stop="20250113183000 +0700" channel="Sportstars 4 HD">
-<title lang="zh">BRI Liga 1</title>
+<programme start="20250114000000 +0700" stop="20250114020000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">BRI Liga 1: BAL Vs KDR</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113183000 +0700" stop="20250113203000 +0700" channel="Sportstars 4 HD">
-<title lang="zh">BRI Liga 1</title>
+<programme start="20250114020000 +0700" stop="20250114040000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">Liga 2: JOG Vs KDS</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250113203000 +0700" stop="20250113223000 +0700" channel="Sportstars 4 HD">
-<title lang="zh">Liga 2</title>
+<programme start="20250114040000 +0700" stop="20250114060000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">Sportacular Match: BVB Vs LEV</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114003000 +0700" stop="20250114023000 +0700" channel="Sportstars 4 HD">
-<title lang="zh">Liga 2</title>
+<programme start="20250114060000 +0700" stop="20250114080000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">Liga 2: JOG Vs KDS</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114023000 +0700" stop="20250114043000 +0700" channel="Sportstars 4 HD">
-<title lang="zh">Sportacular Match</title>
+<programme start="20250114080000 +0700" stop="20250114100000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">Sportacular Match: IDN Vs MAS</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114043000 +0700" stop="20250114063000 +0700" channel="Sportstars 4 HD">
-<title lang="zh">BRI Liga 1</title>
+<programme start="20250114100000 +0700" stop="20250114120000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">BRI Liga 1: PSO Vs PSM</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114063000 +0700" stop="20250114083000 +0700" channel="Sportstars 4 HD">
-<title lang="zh">Liga 2</title>
+<programme start="20250114120000 +0700" stop="20250114140000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">Liga 2: BFC Vs JAP</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114083000 +0700" stop="20250114103000 +0700" channel="Sportstars 4 HD">
-<title lang="zh">BRI Liga 1</title>
+<programme start="20250114140000 +0700" stop="20250114160000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">BRI Liga 1: PSO Vs PSM</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114103000 +0700" stop="20250114123000 +0700" channel="Sportstars 4 HD">
-<title lang="zh">Sportacular Match</title>
+<programme start="20250114160000 +0700" stop="20250114180000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">Sportacular Match: IDN Vs MAS</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114123000 +0700" stop="20250114143000 +0700" channel="Sportstars 4 HD">
-<title lang="zh">BRI Liga 1</title>
+<programme start="20250114180000 +0700" stop="20250114183000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">World Classic League</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114143000 +0700" stop="20250114163000 +0700" channel="Sportstars 4 HD">
-<title lang="zh">Liga 2</title>
+<programme start="20250114183000 +0700" stop="20250114190000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">Europe</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114163000 +0700" stop="20250114183000 +0700" channel="Sportstars 4 HD">
-<title lang="zh">BRI Liga 1</title>
+<programme start="20250114190000 +0700" stop="20250114210000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">Sportacular Match: BVB Vs LEV</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114183000 +0700" stop="20250114203000 +0700" channel="Sportstars 4 HD">
-<title lang="zh">BRI Liga 1</title>
+<programme start="20250114210000 +0700" stop="20250114213000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">The Ultimate Goals</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250114203000 +0700" stop="20250114223000 +0700" channel="Sportstars 4 HD">
-<title lang="zh">Liga 2</title>
+<programme start="20250114213000 +0700" stop="20250114220000 +0700" channel="Sportstars 4 HD">
+<title lang="zh">World Classic League</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250113003000 +0700" stop="20250113040000 +0700" channel="Sportstars HD ">
@@ -59027,10 +59043,6 @@
 <channel id="五星体育"><display-name lang="zh">五星体育</display-name></channel>
 <channel id="上海教育"><display-name lang="zh">上海教育</display-name></channel>
 <channel id="法治天地"><display-name lang="zh">法治天地</display-name></channel>
-<programme start="20250110110000 +0800" stop="20250110120000 +0800" channel="第一财经">
-<title lang="zh">直播：市场零距离</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250110120000 +0800" stop="20250110123500 +0800" channel="第一财经">
 <title lang="zh">直播：财经中间站</title>
 <desc lang="zh"> </desc>
@@ -59657,14 +59669,6 @@
 </programme>
 <programme start="20250114233000 +0800" stop="20250115000000 +0800" channel="第一财经">
 <title lang="zh">＜财经视频集萃－投资有看头＞</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250110103800 +0800" stop="20250110110500 +0800" channel="新闻综合">
-<title lang="zh">1／7（1056）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250110110500 +0800" stop="20250110120000 +0800" channel="新闻综合">
-<title lang="zh">民生一网通</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250110120000 +0800" stop="20250110123100 +0800" channel="新闻综合">
@@ -60301,14 +60305,6 @@
 </programme>
 <programme start="20250114232500 +0800" stop="20250115000000 +0800" channel="新闻综合">
 <title lang="zh">38集连续剧：雪花那个飘（28）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250110104600 +0800" stop="20250110112900 +0800" channel="都市频道">
-<title lang="zh">X诊所（2137）健忘知多少</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250110112900 +0800" stop="20250110113500 +0800" channel="都市频道">
-<title lang="zh">请您欣赏：皮黄新声＜彼时·四郎叹＞</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250110113500 +0800" stop="20250110122100 +0800" channel="都市频道">
@@ -61113,30 +61109,6 @@
 </programme>
 <programme start="20250114233400 +0800" stop="20250115000000 +0800" channel="都市频道">
 <title lang="zh">新老娘舅（4842）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250110103700 +0800" stop="20250110103900 +0800" channel="金色学堂">
-<title lang="zh">烹饪：水果蛋糕</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250110103900 +0800" stop="20250110105300 +0800" channel="金色学堂">
-<title lang="zh">乐学书画：风景写生（18）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250110105300 +0800" stop="20250110105800 +0800" channel="金色学堂">
-<title lang="zh">六安老年大学－梁祝·十八里相送</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250110105800 +0800" stop="20250110110000 +0800" channel="金色学堂">
-<title lang="zh">海洋风光</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250110110000 +0800" stop="20250110112800 +0800" channel="金色学堂">
-<title lang="zh">艺术课堂：中老年钢琴启蒙教程（1）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250110112900 +0800" stop="20250110115900 +0800" channel="金色学堂">
-<title lang="zh">艺术课堂：中老年钢琴启蒙教程（2）</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250110115900 +0800" stop="20250110122500 +0800" channel="金色学堂">
@@ -62987,10 +62959,6 @@
 <title lang="zh">海洋风光</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250110105700 +0800" stop="20250110120000 +0800" channel="五星体育">
-<title lang="zh">弈棋耍大牌－上海三打一（2620）下</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250110120000 +0800" stop="20250110120500 +0800" channel="五星体育">
 <title lang="zh">健身时代精选</title>
 <desc lang="zh"> </desc>
@@ -63609,18 +63577,6 @@
 </programme>
 <programme start="20250114233100 +0800" stop="20250115000000 +0800" channel="五星体育">
 <title lang="zh">2024赛季中国乒乓球俱乐部超级联赛总决赛（第一天）（晚上）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250110103900 +0800" stop="20250110104700 +0800" channel="上海教育">
-<title lang="zh">银龄宝典（1835）老年人压疮5</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250110104700 +0800" stop="20250110111100 +0800" channel="上海教育">
-<title lang="zh">送你一桌味（3）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250110111100 +0800" stop="20250110120400 +0800" channel="上海教育">
-<title lang="zh">谢谢你来了（222）</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250110120400 +0800" stop="20250110121700 +0800" channel="上海教育">
@@ -64453,14 +64409,6 @@
 </programme>
 <programme start="20250114233100 +0800" stop="20250115000000 +0800" channel="上海教育">
 <title lang="zh">侣行·地球之极（8）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250110110000 +0800" stop="20250110112000 +0800" channel="法治天地">
-<title lang="zh">庭前庭后（4）：融合</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250110112000 +0800" stop="20250110114000 +0800" channel="法治天地">
-<title lang="zh">律师界（3）：加梯这件事</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250110114000 +0800" stop="20250110120000 +0800" channel="法治天地">
