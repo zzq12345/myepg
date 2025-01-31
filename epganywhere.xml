@@ -26577,15 +26577,15 @@
 <title lang="zh">好团圆(28)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250201211400 +0800" stop="20250201221100 +0800" channel="广东卫视">
+<programme start="20250201211400 +0800" stop="20250201221200 +0800" channel="广东卫视">
 <title lang="zh">老广的味道10春节版(3)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250201221100 +0800" stop="20250201235300 +0800" channel="广东卫视">
+<programme start="20250201221200 +0800" stop="20250201235400 +0800" channel="广东卫视">
 <title lang="zh">西虹市首富</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250201235300 +0800" stop="20250202000000 +0800" channel="广东卫视">
+<programme start="20250201235400 +0800" stop="20250202000000 +0800" channel="广东卫视">
 <title lang="zh">对手(9)</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -58491,18 +58491,6 @@
 <channel id="五星体育"><display-name lang="zh">五星体育</display-name></channel>
 <channel id="上海教育"><display-name lang="zh">上海教育</display-name></channel>
 <channel id="法治天地"><display-name lang="zh">法治天地</display-name></channel>
-<programme start="20250129010000 +0800" stop="20250129013500 +0800" channel="第一财经">
-<title lang="zh">＜全球资管论坛：朱民－－全球经济金融2025：重塑与应对＞</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250129013500 +0800" stop="20250129021500 +0800" channel="第一财经">
-<title lang="zh">＜头脑风暴－－治智同行：构建人工智能新未来＞</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250129060500 +0800" stop="20250129065500 +0800" channel="第一财经">
-<title lang="zh">＜头脑风暴－－求解：创投之争＞</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250129065500 +0800" stop="20250129072500 +0800" channel="第一财经">
 <title lang="zh">＜创时代－直击引领区＞未来健康篇2：你的大脑准备好接入芯片了吗？（新logo）</title>
 <desc lang="zh"> </desc>
@@ -59011,10 +58999,6 @@
 <title lang="zh">＜头脑风暴－－三问线下新业态＞</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250201020500 +0800" stop="20250201040500 +0800" channel="第一财经">
-<title lang="zh">祝您晚安</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250201040500 +0800" stop="20250201060500 +0800" channel="第一财经">
 <title lang="zh">祝您晚安</title>
 <desc lang="zh"> </desc>
@@ -59163,16 +59147,184 @@
 <title lang="zh">＜金融方法论＞数字赋能　金融如何更高效安全</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129004200 +0800" stop="20250129012300 +0800" channel="新闻综合">
-<title lang="zh">35集连续剧：假日暖洋洋（8）</title>
+<programme start="20250202000000 +0800" stop="20250202001500 +0800" channel="第一财经">
+<title lang="zh">＜金融方法论＞数字赋能　金融如何更高效安全</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129012300 +0800" stop="20250129020400 +0800" channel="新闻综合">
-<title lang="zh">35集连续剧：假日暖洋洋（9）</title>
+<programme start="20250202001500 +0800" stop="20250202005000 +0800" channel="第一财经">
+<title lang="zh">价值三人行－市值管理能否有效激活A股？</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129060100 +0800" stop="20250129062800 +0800" channel="新闻综合">
-<title lang="zh">寻味（206）上海年味第二集　沪味农家庆年夜</title>
+<programme start="20250202005000 +0800" stop="20250202012000 +0800" channel="第一财经">
+<title lang="zh">＜科创Z世代＞机器人系列电视版（余立鑫、崔彧玮、王兴兴）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202012000 +0800" stop="20250202020500 +0800" channel="第一财经">
+<title lang="zh">＜头脑风暴－－求解：创投之争＞</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202020500 +0800" stop="20250202040500 +0800" channel="第一财经">
+<title lang="zh">祝您晚安</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202040500 +0800" stop="20250202060500 +0800" channel="第一财经">
+<title lang="zh">祝您晚安</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202060500 +0800" stop="20250202065500 +0800" channel="第一财经">
+<title lang="zh">＜头脑风暴－－三问线下新业态＞</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202065500 +0800" stop="20250202072500 +0800" channel="第一财经">
+<title lang="zh">＜创时代－直击引领区＞未来材料篇1：神奇的＂膜＂力</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202072500 +0800" stop="20250202075000 +0800" channel="第一财经">
+<title lang="zh">＜2025经济展望＞专访黄瑜：稳地产政策持续给力　重点在落实</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202075000 +0800" stop="20250202081000 +0800" channel="第一财经">
+<title lang="zh">布局千亿赛道　要把握这些指标</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202081000 +0800" stop="20250202082500 +0800" channel="第一财经">
+<title lang="zh">数新风－插上＂AI＋6G＂的翅膀　一块智能显示屏＂破局＂新型消费</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202082500 +0800" stop="20250202085500 +0800" channel="第一财经">
+<title lang="zh">中国经济论坛（6A）：灯塔工厂与制造业智能化转型的未来</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202085500 +0800" stop="20250202092500 +0800" channel="第一财经">
+<title lang="zh">＜科创Z世代＞医疗器械系列电视版（马汉东、张兆东、钟豪章）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202092500 +0800" stop="20250202094200 +0800" channel="第一财经">
+<title lang="zh">2024思想者盛典－张奇</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202094200 +0800" stop="20250202095400 +0800" channel="第一财经">
+<title lang="zh">2024思想者盛典－张明</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202095400 +0800" stop="20250202101000 +0800" channel="第一财经">
+<title lang="zh">2024思想者盛典－大卫翁</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202101000 +0800" stop="20250202103500 +0800" channel="第一财经">
+<title lang="zh">＜中国经营者（238）香港：点亮金融科技新航道＞</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202103500 +0800" stop="20250202110000 +0800" channel="第一财经">
+<title lang="zh">＜中国经营者（239）金融科技出海－－从香港起航＞</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202110000 +0800" stop="20250202112000 +0800" channel="第一财经">
+<title lang="zh">＜第一地产　看房＞</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202112000 +0800" stop="20250202115200 +0800" channel="第一财经">
+<title lang="zh">价值三人行－市值管理能否有效激活A股？</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202115200 +0800" stop="20250202121500 +0800" channel="第一财经">
+<title lang="zh">＜金融方法论＞向新而生　金融如何更具耐心</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202121500 +0800" stop="20250202130000 +0800" channel="第一财经">
+<title lang="zh">＜头脑风暴－－智能汽车：　如何跑赢全球＂竞速赛？＞</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202130000 +0800" stop="20250202132500 +0800" channel="第一财经">
+<title lang="zh">＜2025经济展望＞专访黄瑜：稳地产政策持续给力　重点在落实</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202132500 +0800" stop="20250202141500 +0800" channel="第一财经">
+<title lang="zh">来点财经范儿（127）：开年说</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202141500 +0800" stop="20250202143000 +0800" channel="第一财经">
+<title lang="zh">千篇一律AI时代？创造力将引领人类突破AI束缚</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202143000 +0800" stop="20250202150000 +0800" channel="第一财经">
+<title lang="zh">＜科创Z世代＞Y50论坛电视版（南逸　周宇翔　黎昊）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202150000 +0800" stop="20250202153500 +0800" channel="第一财经">
+<title lang="zh">来点财经范儿（91）：城市＂最亮的那盏灯＂，如何温暖年轻人的生活？</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202153500 +0800" stop="20250202160000 +0800" channel="第一财经">
+<title lang="zh">＜中国经营者（233）翁翔坚：　一个互联网人的出海种椰记＞</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202160000 +0800" stop="20250202163000 +0800" channel="第一财经">
+<title lang="zh">＜创时代－直击引领区＞未来健康篇2：你的大脑准备好接入芯片了吗？（新logo）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202163000 +0800" stop="20250202170000 +0800" channel="第一财经">
+<title lang="zh">中国经济论坛（6A）：灯塔工厂与制造业智能化转型的未来</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202170000 +0800" stop="20250202174500 +0800" channel="第一财经">
+<title lang="zh">＜全球资管论坛：朱民－－全球经济金融2025：重塑与应对＞（字幕版）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202174500 +0800" stop="20250202180000 +0800" channel="第一财经">
+<title lang="zh">总编时刻－对话老凤祥：老字号有责任让世界认识东方文化</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202180000 +0800" stop="20250202183500 +0800" channel="第一财经">
+<title lang="zh">价值三人行－如何捕获超级成长股？</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202183500 +0800" stop="20250202190000 +0800" channel="第一财经">
+<title lang="zh">＜2025经济展望＞专访黄瑜：稳地产政策持续给力　重点在落实</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202190000 +0800" stop="20250202193000 +0800" channel="第一财经">
+<title lang="zh">＜科创Z世代＞Y50论坛电视版（舒强、范睿、王金悦）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202193000 +0800" stop="20250202200000 +0800" channel="第一财经">
+<title lang="zh">＜科创Z世代＞农业系列电视版（秦楚汉、苏慧敏、王金悦）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202200000 +0800" stop="20250202202000 +0800" channel="第一财经">
+<title lang="zh">一年投超70家硬科技公司　他坦言包容性创新更重要</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202202000 +0800" stop="20250202204000 +0800" channel="第一财经">
+<title lang="zh">顶级投资人－瑞士百达</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202204000 +0800" stop="20250202211000 +0800" channel="第一财经">
+<title lang="zh">＜中国经营者（235）黄伟：＂大模型混战＂幸存者说＞</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202211000 +0800" stop="20250202214000 +0800" channel="第一财经">
+<title lang="zh">＜创时代－直击引领区＞未来健康篇3：合成生物开启医药新时代</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202214000 +0800" stop="20250202220000 +0800" channel="第一财经">
+<title lang="zh">总编时刻－对话福特中国：聚焦垂直细分市场　扩大竞争优势</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202220000 +0800" stop="20250202224500 +0800" channel="第一财经">
+<title lang="zh">＜头脑风暴－－科技出海：如何开启新版图？＞</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202224500 +0800" stop="20250202232000 +0800" channel="第一财经">
+<title lang="zh">来点财经范儿（91）：城市＂最亮的那盏灯＂，如何温暖年轻人的生活？</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202232000 +0800" stop="20250202235000 +0800" channel="第一财经">
+<title lang="zh">中国经济论坛（6A）：灯塔工厂与制造业智能化转型的未来</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202235000 +0800" stop="20250203000000 +0800" channel="第一财经">
+<title lang="zh">2024思想者盛典－张明</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250129062800 +0800" stop="20250129070000 +0800" channel="新闻综合">
@@ -59563,10 +59715,6 @@
 <title lang="zh">诗书画（31）　文化名城南京2</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250201015400 +0800" stop="20250201035400 +0800" channel="新闻综合">
-<title lang="zh">祝您晚安</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250201035400 +0800" stop="20250201055400 +0800" channel="新闻综合">
 <title lang="zh">祝您晚安</title>
 <desc lang="zh"> </desc>
@@ -59691,8 +59839,148 @@
 <title lang="zh">35集连续剧：假日暖洋洋（23）</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129012200 +0800" stop="20250129031300 +0800" channel="都市频道">
-<title lang="zh">越剧春节晚会（下）</title>
+<programme start="20250202000000 +0800" stop="20250202002000 +0800" channel="新闻综合">
+<title lang="zh">35集连续剧：假日暖洋洋（23）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202002000 +0800" stop="20250202010100 +0800" channel="新闻综合">
+<title lang="zh">35集连续剧：假日暖洋洋（24）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202010100 +0800" stop="20250202015000 +0800" channel="新闻综合">
+<title lang="zh">35集连续剧：假日暖洋洋（25）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202015000 +0800" stop="20250202015900 +0800" channel="新闻综合">
+<title lang="zh">诗书画（32）　文化名城南京3</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202015900 +0800" stop="20250202035900 +0800" channel="新闻综合">
+<title lang="zh">祝您晚安</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202035900 +0800" stop="20250202055900 +0800" channel="新闻综合">
+<title lang="zh">祝您晚安</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202055900 +0800" stop="20250202060100 +0800" channel="新闻综合">
+<title lang="zh">祝您晚安</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202060100 +0800" stop="20250202063000 +0800" channel="新闻综合">
+<title lang="zh">寻味（206）上海年味第二集　沪味农家庆年夜</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202063000 +0800" stop="20250202070000 +0800" channel="新闻综合">
+<title lang="zh">下一站（199）悟空的家乡</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202070000 +0800" stop="20250202083000 +0800" channel="新闻综合">
+<title lang="zh">上海早晨</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202083000 +0800" stop="20250202090000 +0800" channel="新闻综合">
+<title lang="zh">＜下一站＞精选＂入画江南＂（6）－慢舞时光</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202090000 +0800" stop="20250202094500 +0800" channel="新闻综合">
+<title lang="zh">32集连续剧：特别行动（17）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202094500 +0800" stop="20250202103000 +0800" channel="新闻综合">
+<title lang="zh">32集连续剧：特别行动（18）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202103000 +0800" stop="20250202113000 +0800" channel="新闻综合">
+<title lang="zh">＜何以中国＞（6）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202113000 +0800" stop="20250202120000 +0800" channel="新闻综合">
+<title lang="zh">＜寻味＞精选＂上海年味＂：宝兴里篇</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202120000 +0800" stop="20250202123000 +0800" channel="新闻综合">
+<title lang="zh">＜下一站＞精选＂入画江南＂（6）－慢舞时光</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202123000 +0800" stop="20250202130000 +0800" channel="新闻综合">
+<title lang="zh">＜锚点＞精选：对话郭毅可</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202130000 +0800" stop="20250202134800 +0800" channel="新闻综合">
+<title lang="zh">35集连续剧：假日暖洋洋（26）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202134800 +0800" stop="20250202143500 +0800" channel="新闻综合">
+<title lang="zh">35集连续剧：假日暖洋洋（27）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202143500 +0800" stop="20250202152500 +0800" channel="新闻综合">
+<title lang="zh">35集连续剧：假日暖洋洋（28）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202152500 +0800" stop="20250202161200 +0800" channel="新闻综合">
+<title lang="zh">35集连续剧：假日暖洋洋（29）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202161200 +0800" stop="20250202163000 +0800" channel="新闻综合">
+<title lang="zh">诗书画（33）　文化名城北京</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202163000 +0800" stop="20250202170000 +0800" channel="新闻综合">
+<title lang="zh">＜寻味＞精选＂上海年味＂：环球美食闹新春</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202170000 +0800" stop="20250202172900 +0800" channel="新闻综合">
+<title lang="zh">摩登厨房（4）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202172900 +0800" stop="20250202183000 +0800" channel="新闻综合">
+<title lang="zh">新闻坊</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202183000 +0800" stop="20250202191500 +0800" channel="新闻综合">
+<title lang="zh">新闻报道　新闻透视　观众中来　天气预报</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202191500 +0800" stop="20250202194500 +0800" channel="新闻综合">
+<title lang="zh">法治特别节目：公益诉讼进行时第四季（五）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202194500 +0800" stop="20250202203000 +0800" channel="新闻综合">
+<title lang="zh">38集连续剧：刀锋下的替身（14）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202203000 +0800" stop="20250202211500 +0800" channel="新闻综合">
+<title lang="zh">38集连续剧：刀锋下的替身（15）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202211500 +0800" stop="20250202212600 +0800" channel="新闻综合">
+<title lang="zh">逛吃大上海－柴爿馄饨</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202212600 +0800" stop="20250202213000 +0800" channel="新闻综合">
+<title lang="zh">＜新闻夜线＞天气预报</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202213000 +0800" stop="20250202220000 +0800" channel="新闻综合">
+<title lang="zh">新闻夜线</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202220000 +0800" stop="20250202223000 +0800" channel="新闻综合">
+<title lang="zh">寻味（207）上海年味第三集　四海欢聚话团圆</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202223000 +0800" stop="20250202230000 +0800" channel="新闻综合">
+<title lang="zh">法治特别节目：公益诉讼进行时第四季（五）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202230000 +0800" stop="20250202234000 +0800" channel="新闻综合">
+<title lang="zh">35集连续剧：假日暖洋洋（26）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202234000 +0800" stop="20250203000000 +0800" channel="新闻综合">
+<title lang="zh">35集连续剧：假日暖洋洋（27）</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250129031300 +0800" stop="20250129040000 +0800" channel="都市频道">
@@ -60219,40 +60507,144 @@
 <title lang="zh">疯狂的冰箱·艺品百味（345）</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129003000 +0800" stop="20250129005700 +0800" channel="金色学堂">
-<title lang="zh">艺术课堂：中老年钢琴启蒙教程18</title>
+<programme start="20250202000000 +0800" stop="20250202001200 +0800" channel="都市频道">
+<title lang="zh">疯狂的冰箱·艺品百味（345）</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129005700 +0800" stop="20250129005900 +0800" channel="金色学堂">
-<title lang="zh">上海老年大学浦东分校－小河淌水</title>
+<programme start="20250202001200 +0800" stop="20250202010300 +0800" channel="都市频道">
+<title lang="zh">他乡有好物（5）　遇见山海　就趁现在</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129005900 +0800" stop="20250129012700 +0800" channel="金色学堂">
-<title lang="zh">史依弘的京剧课堂（10）</title>
+<programme start="20250202010300 +0800" stop="20250202012700 +0800" channel="都市频道">
+<title lang="zh">星旅途（431）温暖之旅　揭阳</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129012700 +0800" stop="20250129013000 +0800" channel="金色学堂">
-<title lang="zh">烹饪：水果蛋糕</title>
+<programme start="20250202012700 +0800" stop="20250202020000 +0800" channel="都市频道">
+<title lang="zh">纪录片真实影院（24）　烟火拾味4</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129013000 +0800" stop="20250129013900 +0800" channel="金色学堂">
-<title lang="zh">诗书画（26）：文化名城·神都洛阳</title>
+<programme start="20250202020000 +0800" stop="20250202030500 +0800" channel="都市频道">
+<title lang="zh">欢乐天山·中华情　2025年新疆与援疆省市电视春节联欢晚会（上）</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129013900 +0800" stop="20250129014800 +0800" channel="金色学堂">
-<title lang="zh">诗书画（27）：文化名城·人间天堂</title>
+<programme start="20250202030500 +0800" stop="20250202042700 +0800" channel="都市频道">
+<title lang="zh">欢乐天山·中华情　2025年新疆与援疆省市电视春节联欢晚会（下）</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129014800 +0800" stop="20250129015900 +0800" channel="金色学堂">
-<title lang="zh">诗书画（28）：文化名城·繁华钱塘</title>
+<programme start="20250202042700 +0800" stop="20250202051900 +0800" channel="都市频道">
+<title lang="zh">疯狂的冰箱·艺品百味（346）</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129015900 +0800" stop="20250129021900 +0800" channel="金色学堂">
-<title lang="zh">大医来了</title>
+<programme start="20250202051900 +0800" stop="20250202061000 +0800" channel="都市频道">
+<title lang="zh">他乡有好物（5）　遇见山海　就趁现在</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129021900 +0800" stop="20250129023400 +0800" channel="金色学堂">
-<title lang="zh">金色公开课：声音嘶哑、故事课</title>
+<programme start="20250202061000 +0800" stop="20250202064100 +0800" channel="都市频道">
+<title lang="zh">纪录片真实影院（24）　烟火拾味4</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202064100 +0800" stop="20250202074600 +0800" channel="都市频道">
+<title lang="zh">欢乐天山·中华情　2025年新疆与援疆省市电视春节联欢晚会（上）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202074600 +0800" stop="20250202090900 +0800" channel="都市频道">
+<title lang="zh">欢乐天山·中华情　2025年新疆与援疆省市电视春节联欢晚会（下）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202090900 +0800" stop="20250202093100 +0800" channel="都市频道">
+<title lang="zh">开心全接触－极智装（1128）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202093100 +0800" stop="20250202095300 +0800" channel="都市频道">
+<title lang="zh">星旅途（355）　跟着镜头云旅游　宝藏小吃之城古城漳州　沙县</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202095300 +0800" stop="20250202104600 +0800" channel="都市频道">
+<title lang="zh">他乡有好物（5）　遇见山海　就趁现在</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202104600 +0800" stop="20250202114200 +0800" channel="都市频道">
+<title lang="zh">疯狂的冰箱·艺品百味（345）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202114200 +0800" stop="20250202114600 +0800" channel="都市频道">
+<title lang="zh">普法微短剧：包大人，现在是2025！（7）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202114600 +0800" stop="20250202115100 +0800" channel="都市频道">
+<title lang="zh">普法微短剧：包大人，现在是2025！（8）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202115100 +0800" stop="20250202115600 +0800" channel="都市频道">
+<title lang="zh">普法微短剧：包大人，现在是2025！（9）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202115600 +0800" stop="20250202120100 +0800" channel="都市频道">
+<title lang="zh">普法微短剧：包大人，现在是2025！（10）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202120100 +0800" stop="20250202123300 +0800" channel="都市频道">
+<title lang="zh">纪录片真实影院（24）　烟火拾味4</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202123300 +0800" stop="20250202124900 +0800" channel="都市频道">
+<title lang="zh">开心全接触－超级装（485）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202124900 +0800" stop="20250202135900 +0800" channel="都市频道">
+<title lang="zh">欢乐天山·中华情　2025年新疆与援疆省市电视春节联欢晚会（上）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202135900 +0800" stop="20250202152800 +0800" channel="都市频道">
+<title lang="zh">欢乐天山·中华情　2025年新疆与援疆省市电视春节联欢晚会（下）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202152800 +0800" stop="20250202171000 +0800" channel="都市频道">
+<title lang="zh">电影：奇迹·笨小孩</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202171000 +0800" stop="20250202173300 +0800" channel="都市频道">
+<title lang="zh">开心全接触－极智装（1129）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202173300 +0800" stop="20250202175700 +0800" channel="都市频道">
+<title lang="zh">开心全接触－超级装第404期</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202175700 +0800" stop="20250202183000 +0800" channel="都市频道">
+<title lang="zh">纪录片真实影院（25）　烟火拾味5</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202183000 +0800" stop="20250202192800 +0800" channel="都市频道">
+<title lang="zh">丝路同欣·万里共行　－2025丝路春晚（上）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202192800 +0800" stop="20250202201400 +0800" channel="都市频道">
+<title lang="zh">丝路同欣·万里共行　－2025丝路春晚（下）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202201400 +0800" stop="20250202221400 +0800" channel="都市频道">
+<title lang="zh">电影：长安三万里</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202221400 +0800" stop="20250202225200 +0800" channel="都市频道">
+<title lang="zh">电影：长安三万里</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202225200 +0800" stop="20250202225700 +0800" channel="都市频道">
+<title lang="zh">普法微短剧：包大人，现在是2025！（11）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202225700 +0800" stop="20250202230200 +0800" channel="都市频道">
+<title lang="zh">普法微短剧：包大人，现在是2025！（12）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202230200 +0800" stop="20250202235800 +0800" channel="都市频道">
+<title lang="zh">疯狂的冰箱·艺品百味（347）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202235800 +0800" stop="20250203000000 +0800" channel="都市频道">
+<title lang="zh">他乡有好物（6）　黄山徽韵　浓情年味</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250129023400 +0800" stop="20250129023900 +0800" channel="金色学堂">
@@ -61747,12 +62139,424 @@
 <title lang="zh">海洋风光</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129005600 +0800" stop="20250129015100 +0800" channel="五星体育">
-<title lang="zh">2024上海超级杯第一天（10．3夜场）</title>
+<programme start="20250202000000 +0800" stop="20250202002000 +0800" channel="金色学堂">
+<title lang="zh">生活好技艺：中西式点心－咖喱饺</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129015100 +0800" stop="20250129024600 +0800" channel="五星体育">
-<title lang="zh">2024－25赛季NBA常规赛：太阳－湖人</title>
+<programme start="20250202002000 +0800" stop="20250202003900 +0800" channel="金色学堂">
+<title lang="zh">花样新时尚：江南越韵之美（6）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202003900 +0800" stop="20250202005400 +0800" channel="金色学堂">
+<title lang="zh">乐学书画：风景写生（31）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202005400 +0800" stop="20250202005500 +0800" channel="金色学堂">
+<title lang="zh">金色学堂宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202005500 +0800" stop="20250202005700 +0800" channel="金色学堂">
+<title lang="zh">上海老年大学浦东分校－小河淌水</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202005700 +0800" stop="20250202011000 +0800" channel="金色学堂">
+<title lang="zh">智慧学习营：数字与生活（3）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202011000 +0800" stop="20250202011800 +0800" channel="金色学堂">
+<title lang="zh">烹饪：豆沙面包</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202011800 +0800" stop="20250202011900 +0800" channel="金色学堂">
+<title lang="zh">金色学堂宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202011900 +0800" stop="20250202013900 +0800" channel="金色学堂">
+<title lang="zh">大医来了</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202013900 +0800" stop="20250202015300 +0800" channel="金色学堂">
+<title lang="zh">金色公开课：冠心病－张琪、故事课</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202015300 +0800" stop="20250202015700 +0800" channel="金色学堂">
+<title lang="zh">烹饪：杏仁饼干</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202015700 +0800" stop="20250202015900 +0800" channel="金色学堂">
+<title lang="zh">烹饪：水果蛋糕</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202015900 +0800" stop="20250202021900 +0800" channel="金色学堂">
+<title lang="zh">大医来了：听力下降怎么办</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202021900 +0800" stop="20250202023900 +0800" channel="金色学堂">
+<title lang="zh">金色公开课：钱程教＜金铃塔＞（1）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202023900 +0800" stop="20250202025900 +0800" channel="金色学堂">
+<title lang="zh">金色风采：学习达人黄慧萍</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202025900 +0800" stop="20250202031900 +0800" channel="金色学堂">
+<title lang="zh">生活好技艺：中西式点心</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202031900 +0800" stop="20250202033900 +0800" channel="金色学堂">
+<title lang="zh">花样新时尚：江南越韵之美（7）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202033900 +0800" stop="20250202035800 +0800" channel="金色学堂">
+<title lang="zh">乐学书画：风景写生（31）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202035800 +0800" stop="20250202040000 +0800" channel="金色学堂">
+<title lang="zh">海洋风光</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202040000 +0800" stop="20250202042000 +0800" channel="金色学堂">
+<title lang="zh">生活好技艺：中西式点心－咖喱饺</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202042000 +0800" stop="20250202043900 +0800" channel="金色学堂">
+<title lang="zh">花样新时尚：江南越韵之美（6）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202043900 +0800" stop="20250202044000 +0800" channel="金色学堂">
+<title lang="zh">金色学堂宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202044000 +0800" stop="20250202045500 +0800" channel="金色学堂">
+<title lang="zh">乐学书画：风景写生（31）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202045500 +0800" stop="20250202045600 +0800" channel="金色学堂">
+<title lang="zh">金色学堂宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202045600 +0800" stop="20250202045800 +0800" channel="金色学堂">
+<title lang="zh">上海老年大学浦东分校－小河淌水</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202045800 +0800" stop="20250202051100 +0800" channel="金色学堂">
+<title lang="zh">智慧学习营：数字与生活（3）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202051100 +0800" stop="20250202051900 +0800" channel="金色学堂">
+<title lang="zh">烹饪：豆沙面包</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202051900 +0800" stop="20250202053900 +0800" channel="金色学堂">
+<title lang="zh">大医来了</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202053900 +0800" stop="20250202055300 +0800" channel="金色学堂">
+<title lang="zh">金色公开课：冠心病－张琪、故事课</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202055300 +0800" stop="20250202055700 +0800" channel="金色学堂">
+<title lang="zh">烹饪：杏仁饼干</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202055700 +0800" stop="20250202055800 +0800" channel="金色学堂">
+<title lang="zh">金色学堂宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202055800 +0800" stop="20250202060000 +0800" channel="金色学堂">
+<title lang="zh">海洋风光</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202060000 +0800" stop="20250202062000 +0800" channel="金色学堂">
+<title lang="zh">大医来了：听力下降怎么办</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202062000 +0800" stop="20250202064000 +0800" channel="金色学堂">
+<title lang="zh">金色公开课：钱程教＜金铃塔＞（1）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202064000 +0800" stop="20250202070000 +0800" channel="金色学堂">
+<title lang="zh">金色风采：学习达人黄慧萍</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202070000 +0800" stop="20250202080500 +0800" channel="金色学堂">
+<title lang="zh">乐学大讲堂</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202080500 +0800" stop="20250202082500 +0800" channel="金色学堂">
+<title lang="zh">生活好技艺：中西式点心</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202082500 +0800" stop="20250202082900 +0800" channel="金色学堂">
+<title lang="zh">上海老年大学奉贤分校－国舞国韵</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202082900 +0800" stop="20250202083800 +0800" channel="金色学堂">
+<title lang="zh">诗书画：通才大家·王维－诗画同源</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202083800 +0800" stop="20250202084700 +0800" channel="金色学堂">
+<title lang="zh">诗书画：通才大家·王维－诗佛王维</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202084700 +0800" stop="20250202085600 +0800" channel="金色学堂">
+<title lang="zh">诗书画：通才大家·苏轼－旷达人生</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202085600 +0800" stop="20250202085900 +0800" channel="金色学堂">
+<title lang="zh">烹饪：杏仁饼干</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202085900 +0800" stop="20250202091900 +0800" channel="金色学堂">
+<title lang="zh">大医来了：有了胆病怎么办</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202091900 +0800" stop="20250202093900 +0800" channel="金色学堂">
+<title lang="zh">金色公开课：钱程教＜金铃塔＞（2）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202093900 +0800" stop="20250202095900 +0800" channel="金色学堂">
+<title lang="zh">金色风采：时尚达人陈明明</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202095900 +0800" stop="20250202102900 +0800" channel="金色学堂">
+<title lang="zh">快乐生活帮（33）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202102900 +0800" stop="20250202103700 +0800" channel="金色学堂">
+<title lang="zh">烹饪：豆沙面包</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202103700 +0800" stop="20250202103900 +0800" channel="金色学堂">
+<title lang="zh">金色学堂频道新年宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202103900 +0800" stop="20250202105600 +0800" channel="金色学堂">
+<title lang="zh">乐学书画：风景写生（32）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202105600 +0800" stop="20250202105800 +0800" channel="金色学堂">
+<title lang="zh">金色学堂频道新年宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202105800 +0800" stop="20250202110000 +0800" channel="金色学堂">
+<title lang="zh">海洋风光</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202110000 +0800" stop="20250202112000 +0800" channel="金色学堂">
+<title lang="zh">生活好技艺：中西式点心－咖喱饺</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202112000 +0800" stop="20250202113900 +0800" channel="金色学堂">
+<title lang="zh">花样新时尚：江南越韵之美（6）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202113900 +0800" stop="20250202114000 +0800" channel="金色学堂">
+<title lang="zh">金色学堂宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202114000 +0800" stop="20250202115600 +0800" channel="金色学堂">
+<title lang="zh">乐学书画：风景写生（31）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202115600 +0800" stop="20250202115800 +0800" channel="金色学堂">
+<title lang="zh">上海老年大学浦东分校－小河淌水</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202115800 +0800" stop="20250202121100 +0800" channel="金色学堂">
+<title lang="zh">智慧学习营：数字与生活（3）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202121100 +0800" stop="20250202121900 +0800" channel="金色学堂">
+<title lang="zh">烹饪：豆沙面包</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202121900 +0800" stop="20250202123900 +0800" channel="金色学堂">
+<title lang="zh">大医来了</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202123900 +0800" stop="20250202125300 +0800" channel="金色学堂">
+<title lang="zh">金色公开课：冠心病－张琪、故事课</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202125300 +0800" stop="20250202125700 +0800" channel="金色学堂">
+<title lang="zh">烹饪：杏仁饼干</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202125700 +0800" stop="20250202125800 +0800" channel="金色学堂">
+<title lang="zh">金色学堂频道新年宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202125800 +0800" stop="20250202130000 +0800" channel="金色学堂">
+<title lang="zh">海洋风光</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202130000 +0800" stop="20250202132000 +0800" channel="金色学堂">
+<title lang="zh">大医来了：听力下降怎么办</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202132000 +0800" stop="20250202134000 +0800" channel="金色学堂">
+<title lang="zh">金色公开课：钱程教＜金铃塔＞（1）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202134000 +0800" stop="20250202140000 +0800" channel="金色学堂">
+<title lang="zh">金色风采：学习达人黄慧萍</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202140000 +0800" stop="20250202150500 +0800" channel="金色学堂">
+<title lang="zh">乐学大讲堂</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202150500 +0800" stop="20250202152500 +0800" channel="金色学堂">
+<title lang="zh">生活好技艺：中西式点心</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202152500 +0800" stop="20250202152900 +0800" channel="金色学堂">
+<title lang="zh">上海老年大学奉贤分校－国舞国韵</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202152900 +0800" stop="20250202153800 +0800" channel="金色学堂">
+<title lang="zh">诗书画：通才大家·王维－诗画同源</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202153800 +0800" stop="20250202154700 +0800" channel="金色学堂">
+<title lang="zh">诗书画：通才大家·王维－诗佛王维</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202154700 +0800" stop="20250202155600 +0800" channel="金色学堂">
+<title lang="zh">诗书画：通才大家·苏轼－旷达人生</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202155600 +0800" stop="20250202155900 +0800" channel="金色学堂">
+<title lang="zh">烹饪：杏仁饼干</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202155900 +0800" stop="20250202161900 +0800" channel="金色学堂">
+<title lang="zh">生活好技艺：中西式点心－生煎包</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202161900 +0800" stop="20250202163800 +0800" channel="金色学堂">
+<title lang="zh">花样新时尚：江南越韵之美（8）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202163800 +0800" stop="20250202163900 +0800" channel="金色学堂">
+<title lang="zh">金色学堂频道新年宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202163900 +0800" stop="20250202165500 +0800" channel="金色学堂">
+<title lang="zh">乐学书画：风景写生（32）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202165500 +0800" stop="20250202165900 +0800" channel="金色学堂">
+<title lang="zh">闵行老年大学－最好的舞台</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202165900 +0800" stop="20250202170000 +0800" channel="金色学堂">
+<title lang="zh">海洋风光</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202170000 +0800" stop="20250202171900 +0800" channel="金色学堂">
+<title lang="zh">名医话养生：肠胃病冷知识知多少</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202171900 +0800" stop="20250202173900 +0800" channel="金色学堂">
+<title lang="zh">大医来了：有了胆病怎么办</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202173900 +0800" stop="20250202175900 +0800" channel="金色学堂">
+<title lang="zh">金色公开课：钱程教＜金铃塔＞（2）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202175900 +0800" stop="20250202181900 +0800" channel="金色学堂">
+<title lang="zh">金色风采：时尚达人陈明明</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202181900 +0800" stop="20250202183900 +0800" channel="金色学堂">
+<title lang="zh">大医来了：有了胆病怎么办</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202183900 +0800" stop="20250202185900 +0800" channel="金色学堂">
+<title lang="zh">金色公开课：钱程教＜金铃塔＞（2）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202185900 +0800" stop="20250202191900 +0800" channel="金色学堂">
+<title lang="zh">金色风采：时尚达人陈明明</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202191900 +0800" stop="20250202193800 +0800" channel="金色学堂">
+<title lang="zh">生活好技艺：中西式点心－生煎包</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202193800 +0800" stop="20250202195900 +0800" channel="金色学堂">
+<title lang="zh">花样新时尚：江南越韵之美（8）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202195900 +0800" stop="20250202201400 +0800" channel="金色学堂">
+<title lang="zh">乐学书画：风景写生（32）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202201400 +0800" stop="20250202201800 +0800" channel="金色学堂">
+<title lang="zh">闵行老年大学－最好的舞台</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202201800 +0800" stop="20250202201900 +0800" channel="金色学堂">
+<title lang="zh">海洋风光</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202201900 +0800" stop="20250202203800 +0800" channel="金色学堂">
+<title lang="zh">名医话养生：肠胃病冷知识知多少</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202203800 +0800" stop="20250202203900 +0800" channel="金色学堂">
+<title lang="zh">金色学堂宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202203900 +0800" stop="20250202214500 +0800" channel="金色学堂">
+<title lang="zh">乐学大讲堂</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202214500 +0800" stop="20250202220500 +0800" channel="金色学堂">
+<title lang="zh">生活好技艺：中西式点心</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202220500 +0800" stop="20250202220800 +0800" channel="金色学堂">
+<title lang="zh">上海老年大学奉贤分校－国舞国韵</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202220800 +0800" stop="20250202221700 +0800" channel="金色学堂">
+<title lang="zh">诗书画：通才大家·王维－诗画同源</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202221700 +0800" stop="20250202222600 +0800" channel="金色学堂">
+<title lang="zh">诗书画：通才大家·王维－诗佛王维</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202222600 +0800" stop="20250202223500 +0800" channel="金色学堂">
+<title lang="zh">诗书画：通才大家·苏轼－旷达人生</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202223500 +0800" stop="20250202223900 +0800" channel="金色学堂">
+<title lang="zh">烹饪：杏仁饼干</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202223900 +0800" stop="20250202225900 +0800" channel="金色学堂">
+<title lang="zh">大医来了：有了胆病怎么办</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202225900 +0800" stop="20250202231900 +0800" channel="金色学堂">
+<title lang="zh">金色公开课：钱程教＜金铃塔＞（2）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202231900 +0800" stop="20250202233900 +0800" channel="金色学堂">
+<title lang="zh">金色风采：时尚达人陈明明</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202233900 +0800" stop="20250202235800 +0800" channel="金色学堂">
+<title lang="zh">名医话养生：肠胃病冷知识知多少</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202235800 +0800" stop="20250203000000 +0800" channel="金色学堂">
+<title lang="zh">海洋风光</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250129024600 +0800" stop="20250129034100 +0800" channel="五星体育">
@@ -62339,12 +63143,136 @@
 <title lang="zh">＜胜利时刻：湖人王朝崛起＞第一季3</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129010900 +0800" stop="20250129013700 +0800" channel="上海教育">
-<title lang="zh">送你一桌年夜饭（2）</title>
+<programme start="20250202000000 +0800" stop="20250202002900 +0800" channel="五星体育">
+<title lang="zh">＜胜利时刻：湖人王朝崛起＞第一季3</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129070000 +0800" stop="20250129074200 +0800" channel="上海教育">
-<title lang="zh">五光食色（334）</title>
+<programme start="20250202002900 +0800" stop="20250202012300 +0800" channel="五星体育">
+<title lang="zh">＜胜利时刻：湖人王朝崛起＞第一季4</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202012300 +0800" stop="20250202021800 +0800" channel="五星体育">
+<title lang="zh">2024－25赛季NBA杯小组赛：勇士－鹈鹕</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202021800 +0800" stop="20250202031300 +0800" channel="五星体育">
+<title lang="zh">2024－25赛季NBA杯小组赛：雷霆－湖人</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202031300 +0800" stop="20250202040800 +0800" channel="五星体育">
+<title lang="zh">2024上海赛艇公开赛第一天</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202040800 +0800" stop="20250202045800 +0800" channel="五星体育">
+<title lang="zh">2024上海马拉松</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202045800 +0800" stop="20250202060000 +0800" channel="五星体育">
+<title lang="zh">五星荣耀－上海市攀岩星锐赛集锦</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202060000 +0800" stop="20250202063000 +0800" channel="五星体育">
+<title lang="zh">2024中国壁球公开赛男子决赛：艾尔舒巴基－阿布埃尔加</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202063000 +0800" stop="20250202080200 +0800" channel="五星体育">
+<title lang="zh">2024巴黎奥运会8月11日田径</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202080200 +0800" stop="20250202083900 +0800" channel="五星体育">
+<title lang="zh">2024年世界F1H20摩托艇锦标赛中国上海大奖赛</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202083900 +0800" stop="20250202093000 +0800" channel="五星体育">
+<title lang="zh">弈棋耍大牌－2025春节家庭赛（4）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202093000 +0800" stop="20250202113000 +0800" channel="五星体育">
+<title lang="zh">卫星直播：2024－25赛季NBA常规赛：湖人－尼克斯</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202113000 +0800" stop="20250202120000 +0800" channel="五星体育">
+<title lang="zh">卫星直播：2024－25赛季NBA常规赛：湖人－尼克斯</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202120000 +0800" stop="20250202125200 +0800" channel="五星体育">
+<title lang="zh">2024－25国际帆船大奖赛新西兰站</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202125200 +0800" stop="20250202130000 +0800" channel="五星体育">
+<title lang="zh">[五星精彩]24赛季11－20轮上海海港进球集锦</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202130000 +0800" stop="20250202134800 +0800" channel="五星体育">
+<title lang="zh">弈棋耍大牌－2025春节家庭赛（5）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202134800 +0800" stop="20250202142000 +0800" channel="五星体育">
+<title lang="zh">棋牌新教室（2025－8）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202142000 +0800" stop="20250202144000 +0800" channel="五星体育">
+<title lang="zh">健身时代（2025－5）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202144000 +0800" stop="20250202153800 +0800" channel="五星体育">
+<title lang="zh">2024赛季中国乒乓球俱乐部超级联赛总决赛（第一天）（12．30下午）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202153800 +0800" stop="20250202163500 +0800" channel="五星体育">
+<title lang="zh">2024赛季中国乒乓球俱乐部超级联赛总决赛（第一天）（12．30晚上）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202163500 +0800" stop="20250202170000 +0800" channel="五星体育">
+<title lang="zh">2024巴黎奥运会射击男子10米气手枪决赛（谢瑜－第3金）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202170000 +0800" stop="20250202172400 +0800" channel="五星体育">
+<title lang="zh">五星精彩－弈棋耍大牌精彩牌局（119）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202172400 +0800" stop="20250202175000 +0800" channel="五星体育">
+<title lang="zh">2025极速终点线2</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202175000 +0800" stop="20250202180000 +0800" channel="五星体育">
+<title lang="zh">[五星精彩]2024F1阿塞拜疆大奖赛精彩集锦</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202180000 +0800" stop="20250202184800 +0800" channel="五星体育">
+<title lang="zh">弈棋耍大牌－2025春节家庭赛（6）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202184800 +0800" stop="20250202190000 +0800" channel="五星体育">
+<title lang="zh">[五星精彩]2024　F1意大利大奖赛精彩集锦</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202190000 +0800" stop="20250202192000 +0800" channel="五星体育">
+<title lang="zh">体育新闻</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202192000 +0800" stop="20250202204800 +0800" channel="五星体育">
+<title lang="zh">2024＂永业杯＂WDSF世界体育舞蹈大奖赛总决赛2</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202204800 +0800" stop="20250202210200 +0800" channel="五星体育">
+<title lang="zh">[五星精彩]2024奥运闭幕式精彩片段　阿汤哥开启＜洛杉矶12分钟＞</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202210200 +0800" stop="20250202220000 +0800" channel="五星体育">
+<title lang="zh">2024－25赛季NBA常规赛：湖人－尼克斯</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202220000 +0800" stop="20250202225000 +0800" channel="五星体育">
+<title lang="zh">弈棋耍大牌－上海三打一（2634）上</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202225000 +0800" stop="20250202233900 +0800" channel="五星体育">
+<title lang="zh">弈棋耍大牌－上海三打一（2634）下</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202233900 +0800" stop="20250203000000 +0800" channel="五星体育">
+<title lang="zh">＜胜利时刻：湖人王朝崛起＞第一季5</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250129074200 +0800" stop="20250129080800 +0800" channel="上海教育">
@@ -62819,10 +63747,6 @@
 <title lang="zh">健康脱口秀第四季（4）</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250201010700 +0800" stop="20250201030700 +0800" channel="上海教育">
-<title lang="zh">祝您晚安</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250201030700 +0800" stop="20250201050700 +0800" channel="上海教育">
 <title lang="zh">祝您晚安</title>
 <desc lang="zh"> </desc>
@@ -62967,48 +63891,192 @@
 <title lang="zh">健康脱口秀第四季（5）</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129003000 +0800" stop="20250129010800 +0800" channel="法治天地">
-<title lang="zh">金阿姨的唱歌梦</title>
+<programme start="20250202000000 +0800" stop="20250202005700 +0800" channel="上海教育">
+<title lang="zh">健康脱口秀第四季（5）</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129010800 +0800" stop="20250129011100 +0800" channel="法治天地">
-<title lang="zh">小荧星＜少年有梦＞</title>
+<programme start="20250202005700 +0800" stop="20250202012700 +0800" channel="上海教育">
+<title lang="zh">送你一桌春（1）</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129011100 +0800" stop="20250129011300 +0800" channel="法治天地">
-<title lang="zh">互联网中心＜新时代在路上＞</title>
+<programme start="20250202012700 +0800" stop="20250202032700 +0800" channel="上海教育">
+<title lang="zh">祝您晚安</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129011300 +0800" stop="20250129011500 +0800" channel="法治天地">
-<title lang="zh">第一财经</title>
+<programme start="20250202032700 +0800" stop="20250202052700 +0800" channel="上海教育">
+<title lang="zh">祝您晚安</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129011500 +0800" stop="20250129011700 +0800" channel="法治天地">
-<title lang="zh">互联网中心＜新时代在路上＞</title>
+<programme start="20250202052700 +0800" stop="20250202070000 +0800" channel="上海教育">
+<title lang="zh">祝您晚安</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129011700 +0800" stop="20250129011900 +0800" channel="法治天地">
-<title lang="zh">第一财经</title>
+<programme start="20250202070000 +0800" stop="20250202074000 +0800" channel="上海教育">
+<title lang="zh">五光食色（338）</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129012000 +0800" stop="20250129014100 +0800" channel="法治天地">
-<title lang="zh">案件聚焦：从高材生到阶下囚</title>
+<programme start="20250202074000 +0800" stop="20250202080500 +0800" channel="上海教育">
+<title lang="zh">送你一桌春（2）</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129014100 +0800" stop="20250129014300 +0800" channel="法治天地">
-<title lang="zh">互联网中心＜新时代在路上＞</title>
+<programme start="20250202080500 +0800" stop="20250202081500 +0800" channel="上海教育">
+<title lang="zh">今日房产（109）</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129014300 +0800" stop="20250129014500 +0800" channel="法治天地">
-<title lang="zh">第一财经</title>
+<programme start="20250202081500 +0800" stop="20250202085700 +0800" channel="上海教育">
+<title lang="zh">仁心说医事（58）</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129014500 +0800" stop="20250129021500 +0800" channel="法治天地">
-<title lang="zh">和大律师面对面（2798）：洁蕙</title>
+<programme start="20250202085700 +0800" stop="20250202091700 +0800" channel="上海教育">
+<title lang="zh">一起来成长（664）上海学生艺术团新年音乐会3</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250129021500 +0800" stop="20250129025300 +0800" channel="法治天地">
-<title lang="zh">金阿姨的唱歌梦</title>
+<programme start="20250202091700 +0800" stop="20250202094000 +0800" channel="上海教育">
+<title lang="zh">人间寻味（5）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202094000 +0800" stop="20250202095200 +0800" channel="上海教育">
+<title lang="zh">一起来成长－亲子乐园（298）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202095200 +0800" stop="20250202100200 +0800" channel="上海教育">
+<title lang="zh">＜健康大不同＞日播版（153）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202100200 +0800" stop="20250202100800 +0800" channel="上海教育">
+<title lang="zh">银龄宝典（2151）老龄宣传月系列专题片16</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202100800 +0800" stop="20250202101400 +0800" channel="上海教育">
+<title lang="zh">银龄宝典（2152）老龄宣传月系列专题片17</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202101400 +0800" stop="20250202102000 +0800" channel="上海教育">
+<title lang="zh">银龄宝典（2153）老龄宣传月系列专题片18</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202102000 +0800" stop="20250202102600 +0800" channel="上海教育">
+<title lang="zh">银龄宝典（2211）中老年人护肤宝典1</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202102600 +0800" stop="20250202103200 +0800" channel="上海教育">
+<title lang="zh">银龄宝典（2212）中老年人护肤宝典2</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202103200 +0800" stop="20250202103800 +0800" channel="上海教育">
+<title lang="zh">银龄宝典（2213）中老年人护肤宝典3</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202103800 +0800" stop="20250202104400 +0800" channel="上海教育">
+<title lang="zh">银龄宝典（2214）中老年人护肤宝典4</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202104400 +0800" stop="20250202105000 +0800" channel="上海教育">
+<title lang="zh">银龄宝典（2215）中老年人护肤宝典5</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202105000 +0800" stop="20250202113500 +0800" channel="上海教育">
+<title lang="zh">2025上海绿叶少儿春晚（初五上午）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202113500 +0800" stop="20250202114600 +0800" channel="上海教育">
+<title lang="zh">向着宵夜的方向（第三季）（33）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202114600 +0800" stop="20250202120000 +0800" channel="上海教育">
+<title lang="zh">向着宵夜的方向（第三季）（34）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202120000 +0800" stop="20250202123000 +0800" channel="上海教育">
+<title lang="zh">食尚生活（589）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202123000 +0800" stop="20250202131300 +0800" channel="上海教育">
+<title lang="zh">五光食色（339）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202131300 +0800" stop="20250202141500 +0800" channel="上海教育">
+<title lang="zh">2025上海绿叶少儿春晚（初五下午1）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202141500 +0800" stop="20250202151300 +0800" channel="上海教育">
+<title lang="zh">2025上海绿叶少儿春晚（初五下午2）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202151300 +0800" stop="20250202160200 +0800" channel="上海教育">
+<title lang="zh">谢谢你来了（245）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202160200 +0800" stop="20250202163200 +0800" channel="上海教育">
+<title lang="zh">食尚生活（589）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202163200 +0800" stop="20250202171200 +0800" channel="上海教育">
+<title lang="zh">仁心说医事（58）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202171200 +0800" stop="20250202173200 +0800" channel="上海教育">
+<title lang="zh">聚焦热点（113）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202173200 +0800" stop="20250202181000 +0800" channel="上海教育">
+<title lang="zh">直播家长＂慧＂（6）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202181000 +0800" stop="20250202182900 +0800" channel="上海教育">
+<title lang="zh">一面之词（8）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202182900 +0800" stop="20250202183500 +0800" channel="上海教育">
+<title lang="zh">银龄宝典（2216）关注老年食管裂孔疝1</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202183500 +0800" stop="20250202184100 +0800" channel="上海教育">
+<title lang="zh">银龄宝典（2217）关注老年食管裂孔疝2</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202184100 +0800" stop="20250202184700 +0800" channel="上海教育">
+<title lang="zh">银龄宝典（2218）关注老年食管裂孔疝3</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202184700 +0800" stop="20250202185300 +0800" channel="上海教育">
+<title lang="zh">银龄宝典（2219）关注老年食管裂孔疝4</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202185300 +0800" stop="20250202190000 +0800" channel="上海教育">
+<title lang="zh">银龄宝典（2220）关注老年食管裂孔疝5</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202190000 +0800" stop="20250202193200 +0800" channel="上海教育">
+<title lang="zh">新闻联播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202193200 +0800" stop="20250202205400 +0800" channel="上海教育">
+<title lang="zh">2025上海绿叶少儿春晚（初五晚1）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202205400 +0800" stop="20250202213000 +0800" channel="上海教育">
+<title lang="zh">2025上海绿叶少儿春晚（初五晚2）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202213000 +0800" stop="20250202221300 +0800" channel="上海教育">
+<title lang="zh">重案六组Ⅰ（1）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202221300 +0800" stop="20250202225700 +0800" channel="上海教育">
+<title lang="zh">重案六组Ⅰ（2）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202225700 +0800" stop="20250202231700 +0800" channel="上海教育">
+<title lang="zh">一面之词（8）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202231700 +0800" stop="20250202233800 +0800" channel="上海教育">
+<title lang="zh">一起来成长（662）上海学生艺术团新年音乐会1</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202233800 +0800" stop="20250203000000 +0800" channel="上海教育">
+<title lang="zh">健康脱口秀第四季（6）</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20250129025300 +0800" stop="20250129025600 +0800" channel="法治天地">
@@ -64235,14 +65303,6 @@
 <title lang="zh">第一财经</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20250201011800 +0800" stop="20250201011900 +0800" channel="法治天地">
-<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20250201011900 +0800" stop="20250201012000 +0800" channel="法治天地">
-<title lang="zh">东方有线七彩戏剧免费点播宣传片</title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20250201012000 +0800" stop="20250201014100 +0800" channel="法治天地">
 <title lang="zh">案件聚焦：守护公共安全</title>
 <desc lang="zh"> </desc>
@@ -64825,6 +65885,326 @@
 </programme>
 <programme start="20250201234000 +0800" stop="20250202000000 +0800" channel="法治天地">
 <title lang="zh">庭前庭后Ⅱ（6）：案结</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202000000 +0800" stop="20250202003000 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面（2804）：孙鸣民</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202003000 +0800" stop="20250202012000 +0800" channel="法治天地">
+<title lang="zh">青春修炼手册（上）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202012000 +0800" stop="20250202014500 +0800" channel="法治天地">
+<title lang="zh">案件聚焦：真假玲娜贝儿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202014500 +0800" stop="20250202021500 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面（4537）：马骏</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202021500 +0800" stop="20250202030300 +0800" channel="法治天地">
+<title lang="zh">青春修炼手册（上）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202030300 +0800" stop="20250202030500 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202030500 +0800" stop="20250202033000 +0800" channel="法治天地">
+<title lang="zh">法治新闻：跨越层峦辟新天（1）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202033000 +0800" stop="20250202035300 +0800" channel="法治天地">
+<title lang="zh">庭前庭后Ⅱ（6）：案结</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202035300 +0800" stop="20250202035500 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202035500 +0800" stop="20250202041500 +0800" channel="法治天地">
+<title lang="zh">律师界（1）：女性当自强</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202041500 +0800" stop="20250202050300 +0800" channel="法治天地">
+<title lang="zh">青春修炼手册（上）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202050300 +0800" stop="20250202050500 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202050500 +0800" stop="20250202053000 +0800" channel="法治天地">
+<title lang="zh">案件聚焦：真假玲娜贝儿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202053000 +0800" stop="20250202060500 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面（2804）：孙鸣民</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202060500 +0800" stop="20250202063000 +0800" channel="法治天地">
+<title lang="zh">庭前庭后Ⅱ（6）：案结</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202063000 +0800" stop="20250202070000 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面（4537）：马骏</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202070000 +0800" stop="20250202073300 +0800" channel="法治天地">
+<title lang="zh">法治新闻：跨越层峦辟新天（1）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202073300 +0800" stop="20250202073500 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202073500 +0800" stop="20250202074000 +0800" channel="法治天地">
+<title lang="zh">庭前庭后Ⅲ（1）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202074000 +0800" stop="20250202080300 +0800" channel="法治天地">
+<title lang="zh">案件聚焦：真假玲娜贝儿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202080300 +0800" stop="20250202080500 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202080500 +0800" stop="20250202083000 +0800" channel="法治天地">
+<title lang="zh">律师界（1）：女性当自强</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202083000 +0800" stop="20250202090000 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面（2804）：孙鸣民</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202090000 +0800" stop="20250202094400 +0800" channel="法治天地">
+<title lang="zh">青春修炼手册（上）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202094400 +0800" stop="20250202095000 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202095000 +0800" stop="20250202101100 +0800" channel="法治天地">
+<title lang="zh">案件聚焦：真假玲娜贝儿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202101100 +0800" stop="20250202101500 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202101500 +0800" stop="20250202102200 +0800" channel="法治天地">
+<title lang="zh">庭前庭后Ⅲ（2）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202102200 +0800" stop="20250202103000 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202103000 +0800" stop="20250202110000 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面（4537）：马骏</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202110000 +0800" stop="20250202110500 +0800" channel="法治天地">
+<title lang="zh">庭前庭后Ⅲ（1）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202110500 +0800" stop="20250202111700 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202111700 +0800" stop="20250202112000 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面新年宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202112000 +0800" stop="20250202114000 +0800" channel="法治天地">
+<title lang="zh">律师界（1）：女性当自强</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202114000 +0800" stop="20250202120000 +0800" channel="法治天地">
+<title lang="zh">法治新闻：跨越层峦辟新天（1）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202120000 +0800" stop="20250202123000 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面（2804）：孙鸣民</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202123000 +0800" stop="20250202130000 +0800" channel="法治天地">
+<title lang="zh">庭前庭后Ⅱ（6）：案结</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202130000 +0800" stop="20250202132700 +0800" channel="法治天地">
+<title lang="zh">案件聚焦：真假玲娜贝儿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202132700 +0800" stop="20250202132900 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202132900 +0800" stop="20250202133000 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面新年宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202133000 +0800" stop="20250202135500 +0800" channel="法治天地">
+<title lang="zh">法治新闻：跨越层峦辟新天（1）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202135500 +0800" stop="20250202144500 +0800" channel="法治天地">
+<title lang="zh">青春修炼手册（上）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202144500 +0800" stop="20250202151500 +0800" channel="法治天地">
+<title lang="zh">案件聚焦：真假玲娜贝儿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202151500 +0800" stop="20250202154800 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面（4537）：马骏</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202154800 +0800" stop="20250202155000 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202155000 +0800" stop="20250202161000 +0800" channel="法治天地">
+<title lang="zh">庭前庭后Ⅱ（6）：案结</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202161000 +0800" stop="20250202165900 +0800" channel="法治天地">
+<title lang="zh">青春修炼手册（上）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202165900 +0800" stop="20250202170000 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面新年宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202170000 +0800" stop="20250202172500 +0800" channel="法治天地">
+<title lang="zh">案件聚焦：真假玲娜贝儿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202172500 +0800" stop="20250202175000 +0800" channel="法治天地">
+<title lang="zh">庭审一线（6）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202175000 +0800" stop="20250202175900 +0800" channel="法治天地">
+<title lang="zh">庭前庭后Ⅲ（2）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202175900 +0800" stop="20250202180000 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202180000 +0800" stop="20250202183000 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面（2811）：孙鸣民</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202183000 +0800" stop="20250202184800 +0800" channel="法治天地">
+<title lang="zh">法治新闻：跨越层峦辟新天（2）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202184800 +0800" stop="20250202185000 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202185000 +0800" stop="20250202193300 +0800" channel="法治天地">
+<title lang="zh">青春修炼手册（下）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202193300 +0800" stop="20250202193400 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202193400 +0800" stop="20250202193500 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面新年宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202193500 +0800" stop="20250202200300 +0800" channel="法治天地">
+<title lang="zh">庭前庭后Ⅱ（6）：案结</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202200300 +0800" stop="20250202200400 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202200400 +0800" stop="20250202200500 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面新年宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202200500 +0800" stop="20250202202000 +0800" channel="法治天地">
+<title lang="zh">庭前庭后Ⅲ（3）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202202000 +0800" stop="20250202204300 +0800" channel="法治天地">
+<title lang="zh">安澜长江（17）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202204300 +0800" stop="20250202204400 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202204400 +0800" stop="20250202204500 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面新年宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202204500 +0800" stop="20250202210000 +0800" channel="法治天地">
+<title lang="zh">校媒联盟周刊</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202210000 +0800" stop="20250202211800 +0800" channel="法治天地">
+<title lang="zh">检察官说法（201）：贩卖QQ号的人</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202211800 +0800" stop="20250202212000 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202212000 +0800" stop="20250202212800 +0800" channel="法治天地">
+<title lang="zh">庭前庭后Ⅲ（3）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202212800 +0800" stop="20250202212900 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202212900 +0800" stop="20250202213500 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面新年宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202213500 +0800" stop="20250202215700 +0800" channel="法治天地">
+<title lang="zh">案件聚焦：真假玲娜贝儿</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202215700 +0800" stop="20250202220000 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202220000 +0800" stop="20250202223000 +0800" channel="法治天地">
+<title lang="zh">和大律师面对面（2802）：孙鸣民</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202223000 +0800" stop="20250202224800 +0800" channel="法治天地">
+<title lang="zh">法治新闻：跨越层峦辟新天（2）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202224800 +0800" stop="20250202225000 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202225000 +0800" stop="20250202225500 +0800" channel="法治天地">
+<title lang="zh">庭前庭后Ⅲ（3）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202225500 +0800" stop="20250202233800 +0800" channel="法治天地">
+<title lang="zh">青春修炼手册（下）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202233800 +0800" stop="20250202234000 +0800" channel="法治天地">
+<title lang="zh">＜庭前庭后Ⅲ＞宣传片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20250202234000 +0800" stop="20250203000000 +0800" channel="法治天地">
+<title lang="zh">安澜长江（17）</title>
 <desc lang="zh"> </desc>
 </programme>
 <channel id="elta體育max 1"><display-name lang="zh">elta體育max 1</display-name></channel>
