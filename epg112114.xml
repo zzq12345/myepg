@@ -16515,6 +16515,18 @@
 	<programme channel="咪咕综合体育" start="20260703002500 +0800" stop="20260703005500 +0800">
 		<title lang="zh">世界杯精华</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260703010500 +0800" stop="20260703011000 +0800">
+		<title lang="zh">世界杯宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260703011000 +0800" stop="20260703013500 +0800">
+		<title lang="zh">睛彩世界杯</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260703014000 +0800" stop="20260703015000 +0800">
+		<title lang="zh">詹前顾后</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260703015000 +0800" stop="20260703020000 +0800">
+		<title lang="zh">世界杯宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16523,6 +16535,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260703000500 +0800" stop="20260703014000 +0800">
 		<title lang="zh">2026国青男篮热身赛 第三场 中国U17男篮-美国犹他预科篮球队</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260703014000 +0800" stop="20260703015000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260703015000 +0800" stop="20260703021000 +0800">
+		<title lang="zh">荣耀之路</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50025,56 +50043,38 @@
 	<programme channel="newtv超级综艺" start="20260703001400 +0800" stop="20260703010500 +0800">
 		<title lang="zh">09_启航：当风起时</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260703010500 +0800" stop="20260703020000 +0800">
+		<title lang="zh">10_启航：当风起时</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20260703003000 +0800" stop="20260703010000 +0800">
 		<title lang="zh">燃动金杯-2026年世界杯小组赛第二轮进球集锦</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260703010000 +0800" stop="20260703013000 +0800">
+		<title lang="zh">燃动金杯-2026年世界杯小组赛第三轮进球集锦</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260703013000 +0800" stop="20260703053000 +0800">
+		<title lang="zh">2026世界杯-1/16决赛(西班牙-奥地利)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
-	<programme channel="newtv超级电影" start="20260703000000 +0800" stop="20260703020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260703020000 +0800" stop="20260703040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260703060000 +0800" stop="20260703080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260703080000 +0800" stop="20260703100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260703100600 +0800" stop="20260703120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260703120000 +0800" stop="20260703140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260703140000 +0800" stop="20260703160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260703160000 +0800" stop="20260703180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260703180000 +0800" stop="20260703190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260703190000 +0800" stop="20260703200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260703200000 +0800" stop="20260703220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260703220000 +0800" stop="20260703235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级电影" start="20260703003200 +0800" stop="20260703015600 +0800">
+		<title lang="zh">飞鱼服</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
 	<programme channel="newtv超级电视剧" start="20260703002000 +0800" stop="20260703010200 +0800">
 		<title lang="zh">44_人间正道是沧桑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260703010200 +0800" stop="20260703014500 +0800">
+		<title lang="zh">45_人间正道是沧桑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260703014500 +0800" stop="20260703022700 +0800">
+		<title lang="zh">46_人间正道是沧桑</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50627,6 +50627,12 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260703001700 +0800" stop="20260703010100 +0800">
 		<title lang="zh">21_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260703010100 +0800" stop="20260703013100 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260703013100 +0800" stop="20260703021400 +0800">
+		<title lang="zh">22_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
