@@ -16611,6 +16611,15 @@
 	<programme channel="咪咕综合体育" start="20260805010000 +0800" stop="20260805024000 +0800">
 		<title lang="zh">UFC格斗之夜 阿布扎比站 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260805024500 +0800" stop="20260805034500 +0800">
+		<title lang="zh">世界杯精华</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260805034500 +0800" stop="20260805040000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260805040000 +0800" stop="20260805062500 +0800">
+		<title lang="zh">2026厦门马拉松</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16628,6 +16637,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260805022000 +0800" stop="20260805035500 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第26轮 湖北文旅-石家庄翔蓝</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260805040500 +0800" stop="20260805044000 +0800">
+		<title lang="zh">西班牙篮球黄金一代05 接班人们</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50301,6 +50313,12 @@
 	<programme channel="newtv超级综艺" start="20260805015500 +0800" stop="20260805024100 +0800">
 		<title lang="zh">22_蓝盔特战队</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260805024100 +0800" stop="20260805032600 +0800">
+		<title lang="zh">23_蓝盔特战队</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260805032600 +0800" stop="20260805041200 +0800">
+		<title lang="zh">24_蓝盔特战队</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50310,6 +50328,12 @@
 	<programme channel="newtv超级体育" start="20260805010600 +0800" stop="20260805023600 +0800">
 		<title lang="zh">实况录像-2026世界杯 1/16决赛 巴西队-日本队</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260805023600 +0800" stop="20260805040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 总决赛 3</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260805040000 +0800" stop="20260805060000 +0800">
+		<title lang="zh">2026年法国网球公开赛-男单半决赛(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50318,6 +50342,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260805021000 +0800" stop="20260805031300 +0800">
 		<title lang="zh">烈火营救</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260805031300 +0800" stop="20260805045800 +0800">
+		<title lang="zh">追凶十九年</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50333,6 +50360,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260805022100 +0800" stop="20260805030700 +0800">
 		<title lang="zh">31_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260805030700 +0800" stop="20260805035400 +0800">
+		<title lang="zh">32_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260805035400 +0800" stop="20260805043900 +0800">
+		<title lang="zh">28_冤家亲家</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50894,6 +50927,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260805020700 +0800" stop="20260805025100 +0800">
 		<title lang="zh">02_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260805025100 +0800" stop="20260805033500 +0800">
+		<title lang="zh">03_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260805033500 +0800" stop="20260805041900 +0800">
+		<title lang="zh">04_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
