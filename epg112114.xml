@@ -49923,6 +49923,9 @@
 	<programme channel="newtv超级综艺" start="20260818014600 +0800" stop="20260818023300 +0800">
 		<title lang="zh">31_很想很想你</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260818023300 +0800" stop="20260818032100 +0800">
+		<title lang="zh">32_很想很想你</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49932,11 +49935,17 @@
 	<programme channel="newtv超级体育" start="20260818010600 +0800" stop="20260818023600 +0800">
 		<title lang="zh">实况录像-2026世界杯 1/8决赛 瑞士队-哥伦比亚队</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260818023600 +0800" stop="20260818040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 总决赛 3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
 	<programme channel="newtv超级电影" start="20260818004100 +0800" stop="20260818024100 +0800">
 		<title lang="zh">海大鱼</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260818024100 +0800" stop="20260818035400 +0800">
+		<title lang="zh">鲁班四杰之伏龙海眼</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -49949,6 +49958,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260818013700 +0800" stop="20260818022400 +0800">
 		<title lang="zh">16_很想很想你</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260818022400 +0800" stop="20260818031000 +0800">
+		<title lang="zh">17_很想很想你</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50507,6 +50519,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260818015300 +0800" stop="20260818023900 +0800">
 		<title lang="zh">17_国家机密</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260818023900 +0800" stop="20260818030900 +0800">
+		<title lang="zh">杏花村好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
