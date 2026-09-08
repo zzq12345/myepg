@@ -17601,6 +17601,9 @@
 	<programme channel="咪咕综合体育" start="20260908173000 +0800" stop="20260908223000 +0800">
 		<title lang="zh">国球荣耀-2026WTT澳门冠军赛 男女单打1/16决赛1 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260908223000 +0800" stop="20260908223500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17672,6 +17675,21 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260908183000 +0800" stop="20260908184500 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260908184500 +0800" stop="20260908190500 +0800">
+		<title lang="zh">数聚赛场</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260908192000 +0800" stop="20260908193000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260908193000 +0800" stop="20260908203000 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260908204000 +0800" stop="20260908221000 +0800">
+		<title lang="zh">2026FIBA女篮世界杯 D组第2轮 中国-捷克</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260908222000 +0800" stop="20260908000000 +0800">
+		<title lang="zh">2026FIBA女篮世界杯 B组第1轮 匈牙利-法国</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -58437,6 +58455,12 @@
 	<programme channel="newtv超级综艺" start="20260908180500 +0800" stop="20260908193500 +0800">
 		<title lang="zh">味你而来</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260908193500 +0800" stop="20260908205200 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260908205200 +0800" stop="20260908223200 +0800">
+		<title lang="zh">跟着春晚游中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -58479,6 +58503,9 @@
 	<programme channel="newtv超级体育" start="20260908183000 +0800" stop="20260908213000 +0800">
 		<title lang="zh">WTT澳门冠军赛2026-第1轮 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260908213000 +0800" stop="20260908223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -58520,6 +58547,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260908181300 +0800" stop="20260908194000 +0800">
 		<title lang="zh">黄金蜘蛛城</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260908194000 +0800" stop="20260908222300 +0800">
+		<title lang="zh">碟中谍7：致命清算</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260908222300 +0800" stop="20260908001100 +0800">
+		<title lang="zh">绝密特勤队</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -58598,6 +58631,21 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260908180800 +0800" stop="20260908184600 +0800">
 		<title lang="zh">23_黑白密码</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260908184600 +0800" stop="20260908193200 +0800">
+		<title lang="zh">17_种墨园</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260908193200 +0800" stop="20260908201700 +0800">
+		<title lang="zh">18_种墨园</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260908201700 +0800" stop="20260908210300 +0800">
+		<title lang="zh">19_种墨园</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260908210300 +0800" stop="20260908220300 +0800">
+		<title lang="zh">30_依然的喜事</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260908220300 +0800" stop="20260908224900 +0800">
+		<title lang="zh">01_父辈的荣耀</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59231,6 +59279,24 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260908181100 +0800" stop="20260908184900 +0800">
 		<title lang="zh">燕莱尔 燕窝酸小金瓶</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260908184900 +0800" stop="20260908193500 +0800">
+		<title lang="zh">18_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260908193500 +0800" stop="20260908201500 +0800">
+		<title lang="zh">VK 13 PRO MAX 5G语音手机套装</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260908201500 +0800" stop="20260908210100 +0800">
+		<title lang="zh">19_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260908210100 +0800" stop="20260908213400 +0800">
+		<title lang="zh">喜上眉梢沉香床垫好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260908213400 +0800" stop="20260908222000 +0800">
+		<title lang="zh">20_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260908222000 +0800" stop="20260908225000 +0800">
+		<title lang="zh">杏花村好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
